@@ -5,6 +5,7 @@
 <th>Title</th>
 <th>Credit Units</th>
 <th>Latest Status</th>
+<th>Part of CENG</th>
 <th>Remarks</th>
 </tr>
 <tr>
@@ -13,6 +14,7 @@
 <td>Corporate Accounting I</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -21,6 +23,7 @@
 <td>Accounting Information Systems and Emerging Technologies</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -29,6 +32,7 @@
 <td>Taxation and Tax Planning</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -37,6 +41,7 @@
 <td>Corporate Accounting II</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -45,6 +50,7 @@
 <td>Advanced Financial Accounting</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -53,6 +59,7 @@
 <td>Corporate Finance and Control</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -61,6 +68,7 @@
 <td>Auditing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -69,6 +77,7 @@
 <td>Contemporary Accounting and Business Issues: Global Perspectives</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -77,6 +86,7 @@
 <td>Accounting and Business Ethics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -85,6 +95,7 @@
 <td>Introduction to Financial Accounting</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -93,6 +104,7 @@
 <td>Introduction to Managerial Accounting</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -101,6 +113,7 @@
 <td>Financial Statement Analysis</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -109,6 +122,7 @@
 <td>Electrical and Electronic Principles</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -117,6 +131,7 @@
 <td>Engineering Computing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -125,6 +140,7 @@
 <td>Introduction to Biomechanics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -133,6 +149,7 @@
 <td>Tissue Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -141,6 +158,7 @@
 <td>Introduction to Biomedical Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -149,6 +167,7 @@
 <td>Robotic Technology in Healthcare</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -157,6 +176,7 @@
 <td>Biomedical Signals and Systems</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -165,6 +185,7 @@
 <td>Materials for Biomedical Engineering</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -173,6 +194,7 @@
 <td>Engineering Your Health</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -181,6 +203,7 @@
 <td>Human Physiology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -189,6 +212,7 @@
 <td>Diversity of Life and Evolution</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -197,6 +221,7 @@
 <td>Cell Transport and Signalling</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -205,6 +230,7 @@
 <td>Medical Informatics and Laboratory Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -213,6 +239,7 @@
 <td>Clinical Biochemistry and Molecular Diagnostics</td>
 <td>2&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -221,6 +248,7 @@
 <td>Pharmacology and Toxicology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -229,6 +257,7 @@
 <td>Life and Health</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -237,6 +266,7 @@
 <td>Environmental Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -245,6 +275,7 @@
 <td>Development Economics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -253,6 +284,7 @@
 <td>Construction Contracts I</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -261,6 +293,7 @@
 <td>Architectural Design - Space Making (Topic 1)</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -269,6 +302,7 @@
 <td>Architectural Design - Space Making (Topic 2)</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -277,6 +311,7 @@
 <td>Digital Media and Presentation</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -285,6 +320,7 @@
 <td>Experiencing Architecture</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -293,6 +329,7 @@
 <td>Engineering Mechanics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -301,6 +338,7 @@
 <td>Construction Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -309,6 +347,7 @@
 <td>Fluid Mechanics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -317,6 +356,7 @@
 <td>Building Technology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -325,6 +365,7 @@
 <td>Engineering Surveying</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -333,6 +374,7 @@
 <td>History of Architecture – Chinese and Asian</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Quota: 5</td>
 </tr>
 <tr>
@@ -341,6 +383,7 @@
 <td>Construction Economics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -349,6 +392,7 @@
 <td>Surveying Studio</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -357,6 +401,7 @@
 <td>Architectural Design: Building Integration (Topic 1)</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Quota: 5 (for both CA3349A and CA3349B)</td>
 </tr>
 <tr>
@@ -365,6 +410,7 @@
 <td>Architectural Design: Building Integration (Topic 2)</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -373,6 +419,7 @@
 <td>Design of Structural Elements</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -381,6 +428,7 @@
 <td>Building and Fire Safety Control</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -389,6 +437,7 @@
 <td>Mechanics of Structures and Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -397,6 +446,7 @@
 <td>Soil Mechanics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -405,6 +455,7 @@
 <td>Construction Methods and Equipment</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -413,6 +464,7 @@
 <td>Construction Engineering</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -421,6 +473,7 @@
 <td>Electrical Services</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -429,6 +482,7 @@
 <td>HVAC Engineering</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -437,6 +491,7 @@
 <td>Fire Engineering and Piped Services</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -445,6 +500,7 @@
 <td>Sustainability and Building Systems Integration</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Quota: 10</td>
 </tr>
 <tr>
@@ -453,6 +509,7 @@
 <td>Construction Project Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -461,6 +518,7 @@
 <td>Strategic BIM Management in Smart Construction</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -469,6 +527,7 @@
 <td>Temporary Works Design</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -477,6 +536,7 @@
 <td>Geotechnical Analysis and Design</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -485,6 +545,7 @@
 <td>Electrical Engineering Practices</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -493,6 +554,7 @@
 <td>Advanced HVAC Systems</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -501,6 +563,7 @@
 <td>Fire Science and Modelling</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -509,6 +572,7 @@
 <td>Green and Intelligent Buildings</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -517,6 +581,7 @@
 <td>Chinese Music Appreciation</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Language of Instruction: English</td>
 </tr>
 <tr bgcolor="pink">
@@ -525,6 +590,7 @@
 <td>Architecture and Space in Chinese Culture</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Language of Instruction: English</td>
 </tr>
 <tr bgcolor="pink">
@@ -533,6 +599,7 @@
 <td>Exploring Hong Kong: History, Culture and Society</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Language of Instruction: English</td>
 </tr>
 <tr bgcolor="pink">
@@ -541,6 +608,7 @@
 <td>Chinese Civilisation - History and Philosophy</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Language of Instruction:  Sem A &amp; B - English sections and Chinese sections; Summer: Cantonese/Putonghua</td>
 </tr>
 <tr bgcolor="pink">
@@ -549,6 +617,7 @@
 <td>Discovering the Dynamics of Contemporary Cities and Architecture in China</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Language of Instruction: English</td>
 </tr>
 <tr>
@@ -557,6 +626,7 @@
 <td>Discovery in Biology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -565,6 +635,7 @@
 <td>Principles of General Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -573,6 +644,7 @@
 <td>Principles of Inorganic Chemistry</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -581,6 +653,7 @@
 <td>Principles of Inorganic Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>without lab component</td>
 </tr>
 <tr>
@@ -589,6 +662,7 @@
 <td>Principles of Organic Chemistry</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -597,6 +671,7 @@
 <td>Principles of Organic Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>without lab component</td>
 </tr>
 <tr>
@@ -605,6 +680,7 @@
 <td>Organic Chemistry</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -613,6 +689,7 @@
 <td>Organic Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>without lab component</td>
 </tr>
 <tr>
@@ -621,6 +698,7 @@
 <td>Analytical Chemistry</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -629,6 +707,7 @@
 <td>Analytical Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>without lab component</td>
 </tr>
 <tr>
@@ -637,6 +716,7 @@
 <td>General Ecology</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -645,6 +725,7 @@
 <td>General Ecology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>without lab component</td>
 </tr>
 <tr>
@@ -653,6 +734,7 @@
 <td>Chemical Biology of DNA and RNA</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -661,6 +743,7 @@
 <td>Food Chemistry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -669,6 +752,7 @@
 <td>Crystallography/Solid-state Inorganic Chemistry</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -677,6 +761,7 @@
 <td>Visual Communication</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -685,6 +770,7 @@
 <td>Fundamentals of Advertising</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -693,6 +779,7 @@
 <td>Fundamentals of Persuasive Communication</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -701,6 +788,7 @@
 <td>Data Journalism</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -709,6 +797,7 @@
 <td>Introduction to Computer Studies</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -717,6 +806,7 @@
 <td>Media Computing</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -725,6 +815,7 @@
 <td>Introduction to Computer Programming</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -733,6 +824,7 @@
 <td>Computer Organization</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -741,6 +833,7 @@
 <td>Computer Programming</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -749,6 +842,7 @@
 <td>Problem Solving and Programming</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -757,6 +851,7 @@
 <td>Java Programming</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -765,6 +860,7 @@
 <td>Operating Systems</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -773,6 +869,7 @@
 <td>Computer Networks</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -781,6 +878,7 @@
 <td>Data Structures</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -789,6 +887,7 @@
 <td>Software Engineering Practice</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -797,6 +896,7 @@
 <td>Managing Software Projects</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -805,6 +905,7 @@
 <td>Database Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -813,6 +914,7 @@
 <td>Multimodal Interface Design</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -821,6 +923,7 @@
 <td>Computer Graphics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -829,6 +932,7 @@
 <td>Multimedia Technologies and Applications</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -837,6 +941,7 @@
 <td>Computer Vision for Interactivity</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -845,6 +950,7 @@
 <td>Design and Analysis of Algorithms</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -853,6 +959,7 @@
 <td>Information Security and Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -861,6 +968,7 @@
 <td>Data-Intensive Computing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -869,6 +977,7 @@
 <td>Machine Learning</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -877,6 +986,7 @@
 <td>Global IT Case Studies</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -885,6 +995,7 @@
 <td>Artificial Intelligence – Past, Present, and Future</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -893,6 +1004,7 @@
 <td>Business Statistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -901,6 +1013,7 @@
 <td>Operations Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -909,6 +1022,7 @@
 <td>Understanding Uncertainty and Statistical Reasoning</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -917,6 +1031,7 @@
 <td>Enterprise Data Mining</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -925,6 +1040,7 @@
 <td>Introduction to Data Science</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -933,6 +1049,7 @@
 <td>Python for Data Science</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -941,6 +1058,7 @@
 <td>Introduction to Sustainable Energy and Environmental Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -949,6 +1067,7 @@
 <td>Global Sustainable Technologies and Finance</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -957,6 +1076,7 @@
 <td>Electromagnetic Principles for Energy Engineers</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -965,6 +1085,7 @@
 <td>Chemical Sciences for Energy and Environmental Engineers</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -973,6 +1094,7 @@
 <td>Introduction to Energy and Environmental Data Analysis</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -981,6 +1103,7 @@
 <td>Environmental, Safety, and Occupational Health Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -989,6 +1112,7 @@
 <td>Principles of Sustainability</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -997,6 +1121,7 @@
 <td>Energy and Environmental Economics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1005,6 +1130,7 @@
 <td>Engineering Thermofluids II</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1013,6 +1139,7 @@
 <td>Power Plant Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1021,6 +1148,7 @@
 <td>Energy Efficiency for Buildings</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1029,6 +1157,7 @@
 <td>Urban Sustainability</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1037,6 +1166,7 @@
 <td>Environmental Engineering Laboratory</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1045,6 +1175,7 @@
 <td>Energy and Environmental Engineering Laboratory</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1053,6 +1184,7 @@
 <td>Sustainable Engineering Systems: Modelling and Analysis</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1061,6 +1193,7 @@
 <td>Materials Engineering for Energy Applications</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1069,6 +1202,7 @@
 <td>Chemical Separations for Energy and Environmental Applications</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1077,6 +1211,7 @@
 <td>Water and Water Resource Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1085,6 +1220,7 @@
 <td>Research Seminar</td>
 <td>1&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1093,6 +1229,7 @@
 <td>Guided Study in Energy and Environment</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>Inbound Exchange Students should look for a Faculty Member by themselves as their supervisors prior to select the Course.</td>
 </tr>
 <tr>
@@ -1101,6 +1238,7 @@
 <td>Guided Study in Energy and Environment</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1109,6 +1247,7 @@
 <td>Special Project in Energy and Environment</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1117,6 +1256,7 @@
 <td>Special Project in Energy and Environment</td>
 <td>6&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1125,6 +1265,7 @@
 <td>Microcomputer Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1133,6 +1274,7 @@
 <td>Foundations of Information Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1141,6 +1283,7 @@
 <td>Foundations of Data Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1149,6 +1292,7 @@
 <td>Systems and Control</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1157,6 +1301,7 @@
 <td>Introduction to Electric Power Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -1165,6 +1310,7 @@
 <td>Wireless Communications</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -1173,6 +1319,7 @@
 <td>Sustainable Energy Systems</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1181,6 +1328,7 @@
 <td>Introduction to Integrated Photonics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1189,6 +1337,7 @@
 <td>Applications of Game Theory to Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1197,6 +1346,7 @@
 <td>Microeconomics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1205,6 +1355,7 @@
 <td>Macroeconomics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1213,6 +1364,7 @@
 <td>Introduction to Financial Markets</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1221,6 +1373,7 @@
 <td>Financial Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1229,6 +1382,7 @@
 <td>Security Analysis and Portfolio Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1237,6 +1391,7 @@
 <td>Financial Systems, Markets and Instruments</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1245,6 +1400,7 @@
 <td>Economic and Business Forecasting</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1253,6 +1409,7 @@
 <td>Mergers and Acquisitions</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1261,6 +1418,7 @@
 <td>Derivatives and Risk Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1269,6 +1427,7 @@
 <td>Trading Room Workshop</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1277,6 +1436,7 @@
 <td>International Trade</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1285,6 +1445,7 @@
 <td>Industrial Organization</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1293,6 +1454,7 @@
 <td>Experimental Methods in Economics/Finance</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1301,6 +1463,7 @@
 <td>Managing Your Personal Finance</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1309,6 +1472,7 @@
 <td>Green Economics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1317,6 +1481,7 @@
 <td>The Structure of English</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1325,6 +1490,7 @@
 <td>Literature Across Time</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1333,6 +1499,7 @@
 <td>English in Corporate and Professional Communication</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1341,6 +1508,7 @@
 <td>Popular Culture</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1349,6 +1517,7 @@
 <td>Literature in Our Lives</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1357,6 +1526,7 @@
 <td>English for the Humanities and Social Sciences</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1365,6 +1535,7 @@
 <td>Word, Sound, Image: Writing for Creative Media</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1373,6 +1544,7 @@
 <td>Hong Kong Legal System</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1381,6 +1553,7 @@
 <td>Law of Contract I</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1389,6 +1562,7 @@
 <td>Law of Tort I</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1397,6 +1571,7 @@
 <td>Legal Methods, Research and Writing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1405,6 +1580,7 @@
 <td>Administrative Law</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1413,6 +1589,7 @@
 <td>Criminal Law I</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1421,6 +1598,7 @@
 <td>Dispute Resolution</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1429,6 +1607,7 @@
 <td>Principles of Insurance Law (Marine and General)</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1437,6 +1616,7 @@
 <td>Family Law in Hong Kong</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1445,6 +1625,7 @@
 <td>Equity and Trusts I</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1453,6 +1634,7 @@
 <td>Public International Law</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1461,6 +1643,7 @@
 <td>Criminology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1469,6 +1652,7 @@
 <td>Intellectual Property: Theory, Copyright and Design</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1477,6 +1661,7 @@
 <td>Company Law I</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1485,6 +1670,7 @@
 <td>Introduction to Law and Economics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1493,6 +1679,7 @@
 <td>Principles of Maritime Law and Governance for Sustainable Shipping</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1501,6 +1688,7 @@
 <td>Torts and Technology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1509,6 +1697,7 @@
 <td>Introduction to Business Programming in Python</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1517,6 +1706,7 @@
 <td>Information Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1525,6 +1715,7 @@
 <td>Information Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1533,6 +1724,7 @@
 <td>Business Programming with Spreadsheet</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1541,6 +1733,7 @@
 <td>Big Data Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1549,6 +1742,7 @@
 <td>Business Programming with Spreadsheet</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1557,6 +1751,7 @@
 <td>Mobile Applications for Business</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1565,6 +1760,7 @@
 <td>e-Business</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1573,6 +1769,7 @@
 <td>Java Programming for Business</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1581,6 +1778,7 @@
 <td>Advanced Business Programming in Python</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1589,6 +1787,7 @@
 <td>Database Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1597,6 +1796,7 @@
 <td>Cybersecurity for Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1605,6 +1805,7 @@
 <td>Search Engine Optimization</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1613,6 +1814,7 @@
 <td>Governance &amp; Regulatory Compliance for Financial Information Systems</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1621,6 +1823,7 @@
 <td>Global Project Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1629,6 +1832,7 @@
 <td>Business Intelligence and Analytics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1637,6 +1841,7 @@
 <td>Regulatory Compliance for Financial Services Technologies</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1645,6 +1850,7 @@
 <td>Machine Learning for Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1653,6 +1859,7 @@
 <td>French 1</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>Restricted to students with no prior study or previous knowledge of French.</td>
 </tr>
 <tr>
@@ -1661,6 +1868,7 @@
 <td>German 1</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>Restricted to students with no prior study or previous knowledge of German.</td>
 </tr>
 <tr bgcolor="pink">
@@ -1669,6 +1877,7 @@
 <td>Spanish 1</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Restricted to students with no prior study or previous knowledge of Spanish.</td>
 </tr>
 <tr>
@@ -1677,6 +1886,7 @@
 <td>Japanese 1</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>Restricted to students with no prior study or previous knowledge of Japanese.</td>
 </tr>
 <tr bgcolor="pink">
@@ -1685,6 +1895,7 @@
 <td>Mandarin for Non-Chinese Speakers 1</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Restricted to non-Chinese speakers only.</td>
 </tr>
 <tr>
@@ -1693,6 +1904,7 @@
 <td>Korean 1</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>Restricted to students with no prior study or previous knowledge of Korean.</td>
 </tr>
 <tr bgcolor="pink">
@@ -1701,6 +1913,7 @@
 <td>Basic Cantonese for Non-Chinese Speakers 1</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td>Restricted to non-Chinese speakers only.</td>
 </tr>
 <tr>
@@ -1709,6 +1922,7 @@
 <td>Mind, Brain and Language: How Are Human Beings Special?</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1717,6 +1931,7 @@
 <td>The World through Languages</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1725,6 +1940,7 @@
 <td>Language in Society</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1733,6 +1949,7 @@
 <td>Fundamentals of Linguistics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1741,6 +1958,7 @@
 <td>Introduction to Language Technology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1749,6 +1967,7 @@
 <td>Semantics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1757,6 +1976,7 @@
 <td>Phonology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1765,6 +1985,7 @@
 <td>Chinese Linguistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -1773,6 +1994,7 @@
 <td>Language and Cognition</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1781,6 +2003,7 @@
 <td>Translation for Government and Public Administration</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1789,6 +2012,7 @@
 <td>Translation for the Media</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1797,6 +2021,7 @@
 <td>Second Language Acquisition</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1805,6 +2030,7 @@
 <td>Psycholinguistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1813,6 +2039,7 @@
 <td>Specialized Translation in Commerce and Finance</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1821,6 +2048,7 @@
 <td>Calculus and Linear Algebra for Business</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1829,6 +2057,7 @@
 <td>Calculus and Basic Linear Algebra I</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1837,6 +2066,7 @@
 <td>Calculus and Basic Linear Algebra II</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1845,6 +2075,7 @@
 <td>Enhanced Calculus and Linear Algebra I</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1853,6 +2084,7 @@
 <td>Algebra</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1861,6 +2093,7 @@
 <td>Calculus</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1869,6 +2102,7 @@
 <td>Multi-variable Calculus and Linear Algebra</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1877,6 +2111,7 @@
 <td>Linear Algebra and Calculus</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1885,6 +2120,7 @@
 <td>Applied Statistics for Sciences and Engineering</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1893,6 +2129,7 @@
 <td>Engineering Mathematics and Statistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1901,6 +2138,7 @@
 <td>Discrete Mathematics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td>For non-mathematics major students only</td>
 </tr>
 <tr>
@@ -1909,6 +2147,7 @@
 <td>Linear Algebra</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1917,6 +2156,7 @@
 <td>Multi-variable Calculus</td>
 <td>4&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1925,6 +2165,7 @@
 <td>Discrete Mathematics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1933,6 +2174,7 @@
 <td>Probability and Statistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1941,6 +2183,7 @@
 <td>Partial Differential Equations</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1949,6 +2192,7 @@
 <td>Applied Statistics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1957,6 +2201,7 @@
 <td>Introductory Mathematical Finance</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1965,6 +2210,7 @@
 <td>Elementary Numerical Methods</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1973,6 +2219,7 @@
 <td>Introduction to Dynamical Systems and Chaos</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1981,6 +2228,7 @@
 <td>Real Analysis</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1989,6 +2237,7 @@
 <td>Applied Differential Geometry</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -1997,6 +2246,7 @@
 <td>Statistical Foundations of Data Science</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2005,6 +2255,7 @@
 <td>Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2013,6 +2264,7 @@
 <td>Business Case Analysis and Communication</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2021,6 +2273,7 @@
 <td>Strategic Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2029,6 +2282,7 @@
 <td>Loving Work, Working to Love</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2037,6 +2291,7 @@
 <td>Innovation and Entrepreneurship in Global Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2045,6 +2300,7 @@
 <td>Business and Hong Kong Society</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2053,6 +2309,7 @@
 <td>Introduction to Entrepreneurship</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2061,6 +2318,7 @@
 <td>Interactive Skills Workshop for Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2069,6 +2327,7 @@
 <td>Corporate Social Responsibility</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2077,6 +2336,7 @@
 <td>Organizational Behavior and Human Resources Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2085,6 +2345,7 @@
 <td>International Business</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2093,6 +2354,7 @@
 <td>Talent Management: Learning and Development</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2101,6 +2363,7 @@
 <td>Managing Multinationals</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2109,6 +2372,7 @@
 <td>Negotiation</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2117,6 +2381,7 @@
 <td>Leadership</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2125,6 +2390,7 @@
 <td>Marketing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2133,6 +2399,7 @@
 <td>Marketing Research</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2141,6 +2408,7 @@
 <td>Global Marketing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2149,6 +2417,7 @@
 <td>Persuasion in Everyday Life</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2157,6 +2426,7 @@
 <td>China Business Environment</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2165,6 +2435,7 @@
 <td>Design Thinking and Creativity in Marketing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2173,6 +2444,7 @@
 <td>Advertising Management and Integrated Marketing Communications</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2181,6 +2453,7 @@
 <td>Event Marketing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2189,6 +2462,7 @@
 <td>Science and Technology: Fascinating Mechanical Engineering</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2197,6 +2471,7 @@
 <td>Engineering Mechanics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2205,6 +2480,7 @@
 <td>CAD/CAM</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2213,6 +2489,7 @@
 <td>Automation Technology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2221,6 +2498,7 @@
 <td> Principles of Nuclear Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2229,6 +2507,7 @@
 <td>Introduction to Nuclear Power Plant</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2237,6 +2516,7 @@
 <td>Microelectromechanical Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2245,6 +2525,7 @@
 <td>Mechanics of Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2253,6 +2534,7 @@
 <td>Measurement and Instrumentation</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2261,6 +2543,7 @@
 <td>Aircraft Dynamics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2269,6 +2552,7 @@
 <td>Aerospace Propulsion Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2277,6 +2561,7 @@
 <td>NDT Technologies for Aircraft Structures and Materials</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2285,6 +2570,7 @@
 <td>Reliability Engineering and Risk Analysis</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2293,6 +2579,7 @@
 <td>Aerodynamics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2301,6 +2588,7 @@
 <td>Signals, Sensors and Communication Systems</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2309,6 +2597,7 @@
 <td>The World of NANO: The Next Big Thing Is Really Small</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2317,6 +2606,7 @@
 <td>Mechanical Behaviour of Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Students need to take the prerequisite course - PHY1201.</td>
 </tr>
 <tr>
@@ -2325,6 +2615,7 @@
 <td>Quantum Properties of Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Students need to take the prerequisite courses - PHY1201 and PHY1202.</td>
 </tr>
 <tr>
@@ -2333,6 +2624,7 @@
 <td>Ceramic Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2341,6 +2633,7 @@
 <td>Biomaterials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2349,6 +2642,7 @@
 <td>Materials Characterization</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2357,6 +2651,7 @@
 <td>Thermodynamics of Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td>Students need to take the prerequisite courses - PHY1201 and PHY1202 and MA1200/MA1300 and MA1201/MA1301.</td>
 </tr>
 <tr>
@@ -2365,6 +2660,7 @@
 <td>Design Laboratory</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2373,6 +2669,7 @@
 <td>Corrosion and Protection of Materials</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2381,6 +2678,7 @@
 <td>Nanostructures and Nanotechnology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -2389,6 +2687,7 @@
 <td>Foundation Physics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2397,6 +2696,7 @@
 <td>Introductory Classical Mechanics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2405,6 +2705,7 @@
 <td>General Physics I</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2413,6 +2714,7 @@
 <td>General Physics II</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2421,6 +2723,7 @@
 <td>Measurement and Instrumentation</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2429,6 +2732,7 @@
 <td>Advanced Physics for Biologists</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2437,6 +2741,7 @@
 <td>Modern Physics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2445,6 +2750,7 @@
 <td>Electrodynamics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2453,6 +2759,7 @@
 <td>From Physics to Finance</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2461,6 +2768,7 @@
 <td>Advanced Instrumentation Lab</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2469,6 +2777,7 @@
 <td>Quantum Mechanics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2477,6 +2786,7 @@
 <td>Computational Physics and Machine Learning</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2485,6 +2795,7 @@
 <td>Radiotherapy Physics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2493,6 +2804,7 @@
 <td>Fundamentals of Laser Optics</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2501,6 +2813,7 @@
 <td>Values and Justice in the Contemporary World</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2509,6 +2822,7 @@
 <td>Asian Values and Managerial Practices</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2517,6 +2831,7 @@
 <td>Critical and Creative Thinking</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2525,6 +2840,7 @@
 <td>World Religions</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2533,6 +2849,7 @@
 <td>China: A Socio-Political Transformation</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2541,6 +2858,7 @@
 <td>Food: Culture, Science and Society</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2549,6 +2867,7 @@
 <td>The Hidden City: Space, Power and Social Processes in Hong Kong</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2557,6 +2876,7 @@
 <td>Exploring Public Affairs in Globalised Cities</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2565,6 +2885,7 @@
 <td>Comparing Capitalisms in East Asia and the West</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2573,6 +2894,7 @@
 <td>Social Research Methods</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2581,6 +2903,7 @@
 <td>Traditions of Inquiry in the Social Sciences</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2589,6 +2912,7 @@
 <td>Hong Kong: Continuity and Change</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2597,6 +2921,7 @@
 <td>Comparative Politics and Societies</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2605,6 +2930,7 @@
 <td>Hong Kong Governance</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2613,6 +2939,7 @@
 <td>Environmental Issues and Sustainable Development</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2621,6 +2948,7 @@
 <td>Introduction to Public Governance</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2629,6 +2957,7 @@
 <td>Working with Clients in Public Service</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2637,6 +2966,7 @@
 <td>Introduction to Confucian Political Philosophy</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2645,6 +2975,7 @@
 <td>Exploring Public Affairs in Globalised Cities</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2653,6 +2984,7 @@
 <td>Political Dynamics in Asia</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2661,6 +2993,7 @@
 <td>State and Economy in Asia</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2669,6 +3002,7 @@
 <td>Culture and Change in Asia</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2677,6 +3011,7 @@
 <td>Asian Migration and the Global Diasporas</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2685,6 +3020,7 @@
 <td>Approaches in Political Analysis</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2693,6 +3029,7 @@
 <td>Issues in Contemporary World Politics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2701,6 +3038,7 @@
 <td>Politics and Media</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2709,6 +3047,7 @@
 <td>Theories of International Relations</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2717,6 +3056,7 @@
 <td>Theories of Development</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2725,6 +3065,7 @@
 <td>Global Social Movements</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2733,6 +3074,7 @@
 <td>Health Care Policy and Ethics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2741,6 +3083,7 @@
 <td>Policy Processes and Institutions</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2749,6 +3092,7 @@
 <td>Organizational Behaviour for Public Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2757,6 +3101,7 @@
 <td>Management Ethics</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2765,6 +3110,7 @@
 <td>Urbanization and Health Management</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2773,6 +3119,7 @@
 <td>East Asia and Globalization</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2781,6 +3128,7 @@
 <td>Urban and Social Policy</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2789,6 +3137,7 @@
 <td>Korean Culture</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2797,6 +3146,7 @@
 <td>Japanese Culture</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2805,6 +3155,7 @@
 <td>Housing Policy in Contemporary Society</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2813,6 +3164,7 @@
 <td>Exploring Contemporary Art</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2821,6 +3173,7 @@
 <td>Music for Film</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2829,6 +3182,7 @@
 <td>Introduction to Photography</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2837,6 +3191,7 @@
 <td>3D Animation I - Basic</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2845,6 +3200,7 @@
 <td>Graphic Communication</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2853,6 +3209,7 @@
 <td>Life Drawing</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2861,6 +3218,7 @@
 <td>2D Animation I - Basic</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2869,6 +3227,7 @@
 <td>Object Art Production</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2877,6 +3236,7 @@
 <td>Black and White Photography</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2885,6 +3245,7 @@
 <td>Sound Objects</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2893,6 +3254,7 @@
 <td>Sound Installation and Sound Spatialisation</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2901,6 +3263,7 @@
 <td>Location Sound Recording</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2909,6 +3272,7 @@
 <td>Art Photography</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2917,6 +3281,7 @@
 <td>Expanded Photography</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2925,6 +3290,7 @@
 <td>Understanding Data</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2933,6 +3299,7 @@
 <td>Computer Animation for Interactive Content</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2941,6 +3308,7 @@
 <td>Movies and Psychology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2949,6 +3317,7 @@
 <td>Love, Sex, and Relationships: Psychological Perspectives</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2957,6 +3326,7 @@
 <td>Psychology for Young Professionals</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2965,6 +3335,7 @@
 <td>Sexuality, Culture and Diversity</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -2973,6 +3344,7 @@
 <td>Social Welfare Services and Issues</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2981,6 +3353,7 @@
 <td>Basic Sociology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2989,6 +3362,7 @@
 <td>Introduction to Crime Science</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -2997,6 +3371,7 @@
 <td>Research Methods for Behavioural Sciences</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3005,6 +3380,7 @@
 <td>Personality and Individual Differences</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -3013,6 +3389,7 @@
 <td>Applied Sociological Theory</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -3021,6 +3398,7 @@
 <td>Advanced Applied Quantitative Research Methods</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3029,6 +3407,7 @@
 <td>Psychology of Childhood and Adolescence</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3037,6 +3416,7 @@
 <td>Biological Psychology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3045,6 +3425,7 @@
 <td>Cognitive Psychology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3053,6 +3434,7 @@
 <td>Abnormal Psychology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -3061,6 +3443,7 @@
 <td>Designing Experiments in Psychology</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3069,6 +3452,7 @@
 <td>Advanced Criminological Theory</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3077,6 +3461,7 @@
 <td>Social Capital and Sustainable Development</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3085,6 +3470,7 @@
 <td>Introduction to Health Psychology</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>No</td>
 <td></td>
 </tr>
 <tr>
@@ -3093,6 +3479,7 @@
 <td>Foundations of Innovation and Entrepreneurship</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -3101,6 +3488,7 @@
 <td>Systems Thinking to Understanding Phenomena</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3109,6 +3497,7 @@
 <td>Fundamental Engineering Analysis and Design for Manufacturing Engineers II</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3117,6 +3506,7 @@
 <td>Professional Engineering Practice</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3125,6 +3515,7 @@
 <td>Engineering Statistics and Experimentation</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3133,6 +3524,7 @@
 <td>Production Planning and Control</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3141,6 +3533,7 @@
 <td>Basic Methodologies and Tools for Risk Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3149,6 +3542,7 @@
 <td>Quality Engineering</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr bgcolor="pink">
@@ -3157,6 +3551,7 @@
 <td>Artificial Intelligence and Advanced Technology  in Manufacturing and Operations</td>
 <td>3&nbsp;</td>
 <td align="center">Quota Full</td>
+<td>Yes</td>
 <td></td>
 </tr>
 <tr>
@@ -3165,6 +3560,7 @@
 <td>Project Management</td>
 <td>3&nbsp;</td>
 <td>&nbsp;</td>
+<td>Yes</td>
 <td></td>
 </tr>
 </tbody></table>
