@@ -1,0 +1,3952 @@
+[
+  {
+    "department": "Accountancy",
+    "course_code": "AC3202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC3202.htm",
+    "title": "Corporate Accounting I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers foundational corporate accounting practices for recording company transactions and preparing basic financial statements."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4161",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4161.htm",
+    "title": "Accounting Information Systems and Emerging Technologies",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores accounting information systems and newer technologies used to capture, process, and analyze business data."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4251",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4251.htm",
+    "title": "Taxation and Tax Planning",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces taxation principles and planning techniques for individuals and businesses within a practical accounting context."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4301",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4301.htm",
+    "title": "Corporate Accounting II",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds on corporate accounting basics with more advanced reporting, consolidation, and company accounting issues."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4303",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4303.htm",
+    "title": "Advanced Financial Accounting",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines advanced accounting topics such as complex reporting, measurement, and interpretation of financial information."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4332",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4332.htm",
+    "title": "Corporate Finance and Control",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Links corporate finance with internal control concepts for managing funding, oversight, and financial decisions."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4342",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4342.htm",
+    "title": "Auditing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides an overview of audit principles, procedures, evidence, and assurance work in financial reporting."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4382",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4382.htm",
+    "title": "Contemporary Accounting and Business Issues: Global Perspectives",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Discusses current accounting and business challenges from a global perspective, encouraging broader professional awareness."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "AC4391",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/AC4391.htm",
+    "title": "Accounting and Business Ethics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines ethical decision-making in accounting and business, with attention to responsibility and professional conduct."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "CB2100",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2100.htm",
+    "title": "Introduction to Financial Accounting",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces basic financial accounting concepts, including transaction recording, statements, and reporting for businesses."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "CB2101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2101.htm",
+    "title": "Introduction to Managerial Accounting",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces managerial accounting tools for budgeting, cost analysis, and internal decision-making processes."
+  },
+  {
+    "department": "Accountancy",
+    "course_code": "CB3041",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB3041.htm",
+    "title": "Financial Statement Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches how to interpret financial statements to assess performance, risk, and business health."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME2029",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME2029.htm",
+    "title": "Electrical and Electronic Principles",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers core electrical and electronic principles used in biomedical engineering systems and devices."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME2036",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME2036.htm",
+    "title": "Engineering Computing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops computational skills for solving engineering problems and handling technical data in biomedical contexts."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME2102",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME2102.htm",
+    "title": "Introduction to Biomechanics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces the mechanics of human movement and how forces act on biological systems."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME2104",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME2104.htm",
+    "title": "Tissue Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores strategies for designing and building biological tissues for repair, replacement, and research."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME2105",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME2105.htm",
+    "title": "Introduction to Biomedical Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides a broad introduction to biomedical engineering, its tools, applications, and professional scope."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME3104",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME3104.htm",
+    "title": "Robotic Technology in Healthcare",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines robotic technologies used in healthcare, including clinical applications, design, and system integration."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME3121",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME3121.htm",
+    "title": "Biomedical Signals and Systems",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers the analysis of biomedical signals and the systems used to measure and process them."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "BME3123",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BME3123.htm",
+    "title": "Materials for Biomedical Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies material choices for biomedical devices, implants, and other health-related engineering applications."
+  },
+  {
+    "department": "Biomedical Engineering",
+    "course_code": "GE1320",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1320.htm",
+    "title": "Engineering Your Health",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "A CENG-linked general education course connecting engineering ideas with personal health and wellness."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS2005",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS2005.htm",
+    "title": "Human Physiology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces the functions of human body systems and how they work together to maintain life."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS2202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS2202.htm",
+    "title": "Diversity of Life and Evolution",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores biological diversity, evolution, and the processes that shape living organisms over time."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS3101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS3101.htm",
+    "title": "Cell Transport and Signalling",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how cells move molecules and communicate through transport mechanisms and signalling pathways."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS4001",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS4001.htm",
+    "title": "Medical Informatics and Laboratory Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers medical informatics and laboratory management practices for organizing data and running diagnostic services."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS4003B",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS4003B.htm",
+    "title": "Clinical Biochemistry and Molecular Diagnostics",
+    "credit_units": "2",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on biochemical testing and molecular diagnostic methods used in clinical laboratory practice."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "BMS4007",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/BMS4007.htm",
+    "title": "Pharmacology and Toxicology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces how drugs act in the body and how toxic substances affect biological systems."
+  },
+  {
+    "department": "Biomedical Sciences",
+    "course_code": "GE1341",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1341.htm",
+    "title": "Life and Health",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A general education course examining health, life sciences, and everyday biological issues."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2169",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2169.htm",
+    "title": "Environmental Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces environmental engineering principles for managing pollution, water, waste, and public health."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2213",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2213.htm",
+    "title": "Development Economics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers economic ideas relevant to development, infrastructure, and resource allocation in built environments."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2311",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2311.htm",
+    "title": "Construction Contracts I",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces construction contract terms, responsibilities, and legal issues in project delivery practice."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2343A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2343A.htm",
+    "title": "Architectural Design - Space Making (Topic 1)",
+    "credit_units": "6",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "An extended architectural studio exploring spatial design, form-making, and early design development."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2343B",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2343B.htm",
+    "title": "Architectural Design - Space Making (Topic 2)",
+    "credit_units": "6",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Continues the space-making studio with iterative design refinement, representation, critique, and review."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2345",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2345.htm",
+    "title": "Digital Media and Presentation",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Teaches digital tools for presenting architectural ideas clearly through images, layouts, and visual media."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2346",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2346.htm",
+    "title": "Experiencing Architecture",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores architecture through observation, site experience, and critical discussion of built space."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2673",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2673.htm",
+    "title": "Engineering Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces mechanics concepts used to analyze forces, motion, and structural behavior in engineering."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2674",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2674.htm",
+    "title": "Construction Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers properties, selection, and use of materials commonly found in construction projects."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2675",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2675.htm",
+    "title": "Fluid Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces fluid behavior and the engineering principles used to analyze flow and pressure."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA2744",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA2744.htm",
+    "title": "Building Technology",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines building systems, construction techniques, and technical factors shaping overall building performance."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3144",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3144.htm",
+    "title": "Engineering Surveying",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Develops surveying methods for measuring land, setting out works, and supporting construction accuracy."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3170",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3170.htm",
+    "title": "History of Architecture – Chinese and Asian",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Reviews major developments in Chinese and Asian architecture through historical, cultural, and stylistic contexts."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3214",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3214.htm",
+    "title": "Construction Economics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Applies economic analysis to construction projects, including costs, value, and resource decisions."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3314",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3314.htm",
+    "title": "Surveying Studio",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Provides practical surveying experience through fieldwork, measurement, and applied technical exercises on site."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3349A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3349A.htm",
+    "title": "Architectural Design: Building Integration (Topic 1)",
+    "credit_units": "6",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "An architectural studio focused on integrating building systems, structure, and design in early proposals."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3349B",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3349B.htm",
+    "title": "Architectural Design: Building Integration (Topic 2)",
+    "credit_units": "6",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Extends the building integration studio with deeper resolution, coordination, and design development."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3619",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3619.htm",
+    "title": "Design of Structural Elements",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers the design of structural members and components used in buildings and civil works."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3629",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3629.htm",
+    "title": "Building and Fire Safety Control",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces building safety principles, fire prevention strategies, and control systems for built environments."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3632",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3632.htm",
+    "title": "Mechanics of Structures and Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies how structural systems and materials respond to loads, stress, and deformation."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3687",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3687.htm",
+    "title": "Soil Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines soil behavior and its role in foundations, slopes, and geotechnical design."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3703",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3703.htm",
+    "title": "Construction Methods and Equipment",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers methods, machinery, and site equipment used to carry out construction work efficiently."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3704",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3704.htm",
+    "title": "Construction Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces engineering approaches to planning, executing, and coordinating construction operations and activities."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3712",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3712.htm",
+    "title": "Electrical Services",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores electrical service systems used in buildings, including distribution, safety, and installation concepts."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3722",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3722.htm",
+    "title": "HVAC Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers heating, ventilation, and air-conditioning systems for comfortable and efficient building performance."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA3732",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA3732.htm",
+    "title": "Fire Engineering and Piped Services",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces fire protection and piped service systems used to support building safety and operation."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4174",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4174.htm",
+    "title": "Sustainability and Building Systems Integration",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines how sustainability goals shape the integration of building systems, design, and performance."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4413",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4413.htm",
+    "title": "Construction Project Management",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Develops project management skills for planning, coordinating, and delivering construction work effectively."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4424",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4424.htm",
+    "title": "Strategic BIM Management in Smart Construction",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores strategic use of BIM for managing information and decision-making in smart construction."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4617",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4617.htm",
+    "title": "Temporary Works Design",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers the design of temporary structures and supports needed during construction activities."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4665",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4665.htm",
+    "title": "Geotechnical Analysis and Design",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Applies geotechnical principles to analyze soil conditions and design foundations and earthworks."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4717",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4717.htm",
+    "title": "Electrical Engineering Practices",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces electrical engineering practices relevant to building systems and construction project work."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4727",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4727.htm",
+    "title": "Advanced HVAC Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores more advanced HVAC design and system performance for complex building applications."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "CA4737",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CA4737.htm",
+    "title": "Fire Science and Modelling",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines fire behavior, modelling methods, and the science behind building fire safety."
+  },
+  {
+    "department": "Architecture and Civil Engg",
+    "course_code": "GE2327",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2327.htm",
+    "title": "Green and Intelligent Buildings",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "A CENG-linked course on sustainable, responsive building technologies and smarter built environments."
+  },
+  {
+    "department": "Chinese and History",
+    "course_code": "GE1105",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1105.htm",
+    "title": "Chinese Music Appreciation",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces Chinese music traditions through listening, cultural context, and historical background materials."
+  },
+  {
+    "department": "Chinese and History",
+    "course_code": "GE1125",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1125.htm",
+    "title": "Architecture and Space in Chinese Culture",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how Chinese cultural ideas shape architecture, space, and everyday built environments."
+  },
+  {
+    "department": "Chinese and History",
+    "course_code": "GE1138",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1138.htm",
+    "title": "Exploring Hong Kong: History, Culture and Society",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Surveys Hong Kong's history, culture, and society through a broad interdisciplinary lens."
+  },
+  {
+    "department": "Chinese and History",
+    "course_code": "GE1501",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1501.htm",
+    "title": "Chinese Civilisation - History and Philosophy",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers major ideas in Chinese civilisation, with attention to historical development and philosophy."
+  },
+  {
+    "department": "Chinese and History",
+    "course_code": "GE2132",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2132.htm",
+    "title": "Discovering the Dynamics of Contemporary Cities and Architecture in China",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how modern Chinese cities and architecture are shaped by social and economic change."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM1200",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM1200.htm",
+    "title": "Discovery in Biology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides an introductory look at biological discovery with a chemistry-oriented scientific perspective."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM1300",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM1300.htm",
+    "title": "Principles of General Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers fundamental chemical principles needed for understanding matter, reactions, and molecular behavior."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM2006",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM2006.htm",
+    "title": "Principles of Inorganic Chemistry",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces inorganic chemistry concepts, emphasizing structure, bonding, and properties of elements and compounds."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM2006A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM2006A.htm",
+    "title": "Principles of Inorganic Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A shorter introduction to inorganic chemistry covering structure, bonding, and properties of compounds."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM2007",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM2007.htm",
+    "title": "Principles of Organic Chemistry",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces organic chemistry, focusing on structure, reactivity, and common reaction patterns in molecules."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM2007A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM2007A.htm",
+    "title": "Principles of Organic Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A shorter introduction to organic chemistry covering structure, reactions, and fundamental concepts."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3015",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3015.htm",
+    "title": "Organic Chemistry",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops a deeper understanding of organic structures, mechanisms, and synthetic transformations in chemistry."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3015A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3015A.htm",
+    "title": "Organic Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A shorter organic chemistry course emphasizing reactions, mechanisms, and molecular structure fundamentals."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3027",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3027.htm",
+    "title": "Analytical Chemistry",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers analytical methods for identifying substances, measuring composition, and interpreting chemical data."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3027A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3027A.htm",
+    "title": "Analytical Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A shorter analytical chemistry course focused on measurement, separation, and data interpretation."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3068",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3068.htm",
+    "title": "General Ecology",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces ecological principles, organism interactions, and environmental relationships in natural systems today."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3068A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3068A.htm",
+    "title": "General Ecology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "A shorter introduction to ecology covering ecosystems, interactions, and environmental processes in practice."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM3081",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM3081.htm",
+    "title": "Chemical Biology of DNA and RNA",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how chemical principles help explain the structure and behavior of DNA and RNA."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM4043",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM4043.htm",
+    "title": "Food Chemistry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines the chemical composition and reactions of foods, from processing to quality and safety."
+  },
+  {
+    "department": "Chemistry",
+    "course_code": "CHEM4084",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CHEM4084.htm",
+    "title": "Crystallography/Solid-state Inorganic Chemistry",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies crystal structures and solid-state inorganic chemistry concepts used to analyze materials."
+  },
+  {
+    "department": "Media and Communication",
+    "course_code": "COM2105",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/COM2105.htm",
+    "title": "Visual Communication",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops visual communication skills for conveying ideas clearly through images, layouts, and design."
+  },
+  {
+    "department": "Media and Communication",
+    "course_code": "COM2401",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/COM2401.htm",
+    "title": "Fundamentals of Advertising",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces advertising principles, media planning, and campaign thinking in a commercial context."
+  },
+  {
+    "department": "Media and Communication",
+    "course_code": "COM3107",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/COM3107.htm",
+    "title": "Fundamentals of Persuasive Communication",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines persuasion techniques and message design for influencing audiences in varied settings."
+  },
+  {
+    "department": "Media and Communication",
+    "course_code": "COM3203",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/COM3203.htm",
+    "title": "Data Journalism",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches how to gather, analyze, and present data for journalistic storytelling and reporting."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS1102",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS1102.htm",
+    "title": "Introduction to Computer Studies",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides a broad introduction to computing concepts, systems, and common applications in practice."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS1103B",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS1103B.htm",
+    "title": "Media Computing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces computing concepts and digital media tools used to create and process interactive content."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS1302",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS1302.htm",
+    "title": "Introduction to Computer Programming",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers basic programming concepts, logic, and problem-solving for new computing students in practice."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS2115",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS2115.htm",
+    "title": "Computer Organization",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how computers are built internally, from hardware components to instruction execution."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS2311",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS2311.htm",
+    "title": "Computer Programming",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds practical programming skills through problem solving, coding practice, and algorithmic thinking."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS2312",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS2312.htm",
+    "title": "Problem Solving and Programming",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on computational problem solving and programming techniques for developing correct solutions."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS2360",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS2360.htm",
+    "title": "Java Programming",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces Java programming language concepts, syntax, and application development fundamentals for beginners."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3103",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3103.htm",
+    "title": "Operating Systems",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies operating system concepts including processes, memory, file systems, and resource management."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3201",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3201.htm",
+    "title": "Computer Networks",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers networking fundamentals, communication protocols, and the structure of connected computer systems."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3334",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3334.htm",
+    "title": "Data Structures",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines common data structures and their role in efficient problem solving and programming."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3343",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3343.htm",
+    "title": "Software Engineering Practice",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces software engineering methods for designing, building, testing, and maintaining reliable systems."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3356",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3356.htm",
+    "title": "Managing Software Projects",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on planning, coordinating, and controlling software projects from start to finish."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3402",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3402.htm",
+    "title": "Database Systems",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers database design, querying, and management for building reliable data-driven applications."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS3483",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS3483.htm",
+    "title": "Multimodal Interface Design",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores interface design across text, sound, image, and interaction for richer user experiences."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4182",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4182.htm",
+    "title": "Computer Graphics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces the foundations of computer graphics, including rendering, modeling, and visual computation."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4185",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4185.htm",
+    "title": "Multimedia Technologies and Applications",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines multimedia technologies and their use in communication, presentation, and interactive applications."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4187",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4187.htm",
+    "title": "Computer Vision for Interactivity",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores computer vision methods that support responsive interactive systems and real-time user input."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4335",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4335.htm",
+    "title": "Design and Analysis of Algorithms",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds skills in designing efficient algorithms and analyzing their time and space complexity."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4394",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4394.htm",
+    "title": "Information Security and Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers security principles, risk control, and management practices for protecting information systems."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4480",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4480.htm",
+    "title": "Data-Intensive Computing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines computing techniques for storing, processing, and analyzing large-scale data efficiently."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "CS4487",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CS4487.htm",
+    "title": "Machine Learning",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces machine learning methods, models, and practical applications for predictive data analysis."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "GE2313",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2313.htm",
+    "title": "Global IT Case Studies",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Reviews international IT case studies to compare technology choices, outcomes, and organizational context.  It is CENG-aligned."
+  },
+  {
+    "department": "Computer Science",
+    "course_code": "GE2340",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2340.htm",
+    "title": "Artificial Intelligence – Past, Present, and Future",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Survey AI history, current capabilities, and likely future directions in a broad contextual overview It is CENG-aligned."
+  },
+  {
+    "department": "Decision Analytics &Operations",
+    "course_code": "CB2200",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2200.htm",
+    "title": "Business Statistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces statistical tools for analyzing business data and making evidence-based decisions."
+  },
+  {
+    "department": "Decision Analytics &Operations",
+    "course_code": "CB2201",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2201.htm",
+    "title": "Operations Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers core operations concepts for improving efficiency, workflow, and resource use in organizations."
+  },
+  {
+    "department": "Decision Analytics &Operations",
+    "course_code": "GE2213",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2213.htm",
+    "title": "Understanding Uncertainty and Statistical Reasoning",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops statistical reasoning for interpreting uncertainty, variability, and evidence in decision making."
+  },
+  {
+    "department": "Decision Analytics &Operations",
+    "course_code": "MS4224",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MS4224.htm",
+    "title": "Enterprise Data Mining",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Applies data mining techniques to uncover patterns, trends, and actionable insights in enterprise data."
+  },
+  {
+    "department": "Data Science",
+    "course_code": "GE1356",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1356.htm",
+    "title": "Introduction to Data Science",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces core data science concepts, methods, and workflows for analyzing real-world data."
+  },
+  {
+    "department": "Data Science",
+    "course_code": "SDSC2001",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SDSC2001.htm",
+    "title": "Python for Data Science",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches Python programming for data wrangling, analysis, and basic modeling tasks for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE1003",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE1003.htm",
+    "title": "Introduction to Sustainable Energy and Environmental Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces the technical foundations of sustainable energy and environmental engineering problems and solutions."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE1005",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE1005.htm",
+    "title": "Global Sustainable Technologies and Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how sustainable technologies interact with finance, investment, and global development goals."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE2001",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE2001.htm",
+    "title": "Electromagnetic Principles for Energy Engineers",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers electromagnetic principles needed to understand energy systems, devices, and applications for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE2002",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE2002.htm",
+    "title": "Chemical Sciences for Energy and Environmental Engineers",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds chemistry knowledge relevant to energy systems and environmental engineering practice for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE2003",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE2003.htm",
+    "title": "Introduction to Energy and Environmental Data Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces data analysis methods for energy and environmental applications using practical examples."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE2203",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE2203.htm",
+    "title": "Environmental, Safety, and Occupational Health Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines management practices for environmental protection, safety, and workplace health for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE2204",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE2204.htm",
+    "title": "Principles of Sustainability",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores sustainability concepts, tradeoffs, and strategies for long-term environmental and social balance."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE3002",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE3002.htm",
+    "title": "Energy and Environmental Economics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers economic principles used to evaluate energy systems, environmental impacts, and policy choices."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE3101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE3101.htm",
+    "title": "Engineering Thermofluids II",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Extends thermofluid analysis with advanced applications in energy and engineering systems for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE3102",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE3102.htm",
+    "title": "Power Plant Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies power plant systems, components, and operational principles for electricity generation for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE3103",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE3103.htm",
+    "title": "Energy Efficiency for Buildings",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines techniques for improving building energy performance through design and management for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE3205",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE3205.htm",
+    "title": "Urban Sustainability",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores strategies for making cities more resilient, efficient, and environmentally sustainable for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4002",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4002.htm",
+    "title": "Environmental Engineering Laboratory",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides laboratory practice in environmental engineering measurements, experiments, and analysis for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4003",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4003.htm",
+    "title": "Energy and Environmental Engineering Laboratory",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides laboratory practice in energy and environmental engineering experiments and data analysis."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4112",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4112.htm",
+    "title": "Sustainable Engineering Systems: Modelling and Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Uses modelling and analysis to evaluate sustainable engineering systems and their performance."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4120",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4120.htm",
+    "title": "Materials Engineering for Energy Applications",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines materials selection and behavior for energy technologies and related applications for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4122",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4122.htm",
+    "title": "Chemical Separations for Energy and Environmental Applications",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers separation methods used in energy and environmental engineering processes for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4218",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4218.htm",
+    "title": "Water and Water Resource Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies water systems, resource management, and engineering approaches to water challenges for practical study."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4993",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4993.htm",
+    "title": "Research Seminar",
+    "credit_units": "1",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides a research seminar for discussing current topics, methods, and scholarly communication."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4994",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4994.htm",
+    "title": "Guided Study in Energy and Environment",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Supports supervised independent study on a focused topic in energy and environment."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4995",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4995.htm",
+    "title": "Guided Study in Energy and Environment",
+    "credit_units": "6",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Supports supervised independent study on a focused topic in energy and environment."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4998",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4998.htm",
+    "title": "Special Project in Energy and Environment",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Requires an independent project applying energy and environment knowledge to a specific problem."
+  },
+  {
+    "department": "Sch of Energy and Environment",
+    "course_code": "SEE4999",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SEE4999.htm",
+    "title": "Special Project in Energy and Environment",
+    "credit_units": "6",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Requires an independent project applying energy and environment knowledge to a specific problem."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE2004",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE2004.htm",
+    "title": "Microcomputer Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces microcomputer architecture, hardware interfacing, and embedded system concepts It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE2302",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE2302.htm",
+    "title": "Foundations of Information Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Builds foundational knowledge of information engineering concepts, systems, and practices It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE3001",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE3001.htm",
+    "title": "Foundations of Data Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Builds foundational understanding of data engineering pipelines, systems, and practical workflows It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE3114",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE3114.htm",
+    "title": "Systems and Control",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers modeling and control concepts for analyzing and regulating dynamic systems It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE3123",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE3123.htm",
+    "title": "Introduction to Electric Power Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces electric power system structure, operation, and core engineering principles It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE4036",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE4036.htm",
+    "title": "Wireless Communications",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers wireless communication principles, signal transmission, and network performance It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE4101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE4101.htm",
+    "title": "Sustainable Energy Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores energy system design and operation with emphasis on sustainability and efficiency It is CENG-aligned."
+  },
+  {
+    "department": "Electrical Engineering",
+    "course_code": "EE4142",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EE4142.htm",
+    "title": "Introduction to Integrated Photonics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces integrated photonics concepts and their role in modern optical systems It is CENG-aligned."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "CB2041",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2041.htm",
+    "title": "Applications of Game Theory to Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Applies game theory to business decisions, competition, and strategic interaction for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "CB2400",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2400.htm",
+    "title": "Microeconomics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers consumer choice, firm behavior, and market outcomes in microeconomic analysis for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "CB2402",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2402.htm",
+    "title": "Macroeconomics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers economy-wide output, inflation, employment, and policy analysis for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "CB3044",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB3044.htm",
+    "title": "Introduction to Financial Markets",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces financial markets, instruments, and the institutions that support capital flow for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "CB3410",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB3410.htm",
+    "title": "Financial Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers financial decision making, capital allocation, and value-oriented management practices for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF3320",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF3320.htm",
+    "title": "Security Analysis and Portfolio Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines investment analysis and portfolio construction for managing return and risk for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF3333",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF3333.htm",
+    "title": "Financial Systems, Markets and Instruments",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how financial systems, markets, and instruments support capital allocation for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF3451",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF3451.htm",
+    "title": "Economic and Business Forecasting",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops forecasting techniques for economic trends and business planning for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4312",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4312.htm",
+    "title": "Mergers and Acquisitions",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers valuation, deal structure, and strategic issues in mergers and acquisitions for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4321",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4321.htm",
+    "title": "Derivatives and Risk Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines derivatives pricing and their use in managing financial risk for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4323",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4323.htm",
+    "title": "Trading Room Workshop",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides practical trading-room experience with market tools, analysis, and decision making."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4473",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4473.htm",
+    "title": "International Trade",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies trade theory, policy, and cross-border economic relationships for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4480",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4480.htm",
+    "title": "Industrial Organization",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines market structure, firm strategy, and competition in industrial organization for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "EF4485",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EF4485.htm",
+    "title": "Experimental Methods in Economics/Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces experimental approaches for studying behavior in economics and finance for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "GE1202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1202.htm",
+    "title": "Managing Your Personal Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers practical personal finance skills for budgeting, saving, borrowing, and investing for practical study."
+  },
+  {
+    "department": "Economics & Finance",
+    "course_code": "GE1205",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1205.htm",
+    "title": "Green Economics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores economic ideas and policy choices related to sustainability and environmental outcomes."
+  },
+  {
+    "department": "English",
+    "course_code": "EN2711",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EN2711.htm",
+    "title": "The Structure of English",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines English grammar, syntax, and language structure in a systematic way for practical study."
+  },
+  {
+    "department": "English",
+    "course_code": "EN2717",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EN2717.htm",
+    "title": "Literature Across Time",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Surveys literature from different periods to compare themes, forms, and historical context."
+  },
+  {
+    "department": "English",
+    "course_code": "EN3525",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/EN3525.htm",
+    "title": "English in Corporate and Professional Communication",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops English skills for workplace writing, speaking, and professional communication for practical study."
+  },
+  {
+    "department": "English",
+    "course_code": "GE2105",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2105.htm",
+    "title": "Popular Culture",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Analyzes popular culture through media, identity, and social change for practical study."
+  },
+  {
+    "department": "English",
+    "course_code": "GE2108",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2108.htm",
+    "title": "Literature in Our Lives",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how literature shapes personal experience, culture, and interpretation for practical study."
+  },
+  {
+    "department": "English",
+    "course_code": "GE2412",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2412.htm",
+    "title": "English for the Humanities and Social Sciences",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops English skills for reading and writing in humanities and social science contexts."
+  },
+  {
+    "department": "English",
+    "course_code": "GE2413",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2413.htm",
+    "title": "Word, Sound, Image: Writing for Creative Media",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on writing for creative media that combines language, sound, and visual elements."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW2601",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW2601.htm",
+    "title": "Hong Kong Legal System",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces the structure, institutions, and basic operation of Hong Kong’s legal system."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW2602A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW2602A.htm",
+    "title": "Law of Contract I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers foundational contract law concepts including formation, terms, and enforceability for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW2603A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW2603A.htm",
+    "title": "Law of Tort I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers foundational tort law principles involving civil wrongs and liability for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW2604",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW2604.htm",
+    "title": "Legal Methods, Research and Writing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops legal research, analysis, and writing skills for academic and practice settings."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW3605B",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW3605B.htm",
+    "title": "Administrative Law",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how public authorities are controlled through administrative law principles and review."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW3606A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW3606A.htm",
+    "title": "Criminal Law I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces criminal law principles, offenses, and basic liability concepts for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4614",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4614.htm",
+    "title": "Dispute Resolution",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies negotiation, mediation, and other methods for resolving disputes outside court for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4615",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4615.htm",
+    "title": "Principles of Insurance Law (Marine and General)",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers insurance law principles with attention to marine and general insurance contexts."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4617",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4617.htm",
+    "title": "Family Law in Hong Kong",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores family law issues in Hong Kong, including relationships, rights, and legal remedies."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4630A",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4630A.htm",
+    "title": "Equity and Trusts I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces equity and trust law, focusing on obligations, remedies, and fiduciary principles."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4634",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4634.htm",
+    "title": "Public International Law",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers the rules and institutions governing relations between states and international actors."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4637",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4637.htm",
+    "title": "Criminology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines crime, criminal behavior, and social responses through criminological perspectives for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4641",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4641.htm",
+    "title": "Intellectual Property: Theory, Copyright and Design",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores intellectual property theory with emphasis on copyright and design protection for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4656",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4656.htm",
+    "title": "Company Law I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces company law principles covering corporate formation, governance, and duties for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4678",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4678.htm",
+    "title": "Introduction to Law and Economics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces economic analysis for understanding legal rules, incentives, and institutions for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4680",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4680.htm",
+    "title": "Principles of Maritime Law and Governance for Sustainable Shipping",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers maritime law and governance issues shaping safer, more sustainable shipping for practical study."
+  },
+  {
+    "department": "School of Law",
+    "course_code": "LW4684",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LW4684.htm",
+    "title": "Torts and Technology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines tort liability issues that arise from modern technologies and digital systems."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "CB2240",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2240.htm",
+    "title": "Introduction to Business Programming in Python",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces Python programming for business problem solving, automation, and data handling for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "CB2500",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2500.htm",
+    "title": "Information Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers how organizations collect, organize, and use information effectively for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "GE2263",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2263.htm",
+    "title": "Information Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers how organizations collect, organize, and use information effectively for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "GE2335",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2335.htm",
+    "title": "Business Programming with Spreadsheet",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches spreadsheet-based programming for business analysis, reporting, and automation for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS2021",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS2021.htm",
+    "title": "Big Data Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores methods for storing, organizing, and managing large-scale data systems for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS2022",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS2022.htm",
+    "title": "Business Programming with Spreadsheet",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches spreadsheet-based programming for business analysis, reporting, and automation for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS2023",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS2023.htm",
+    "title": "Mobile Applications for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers mobile app concepts and business uses for customer and operational tasks."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS2505",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS2505.htm",
+    "title": "e-Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies digital business models, online transactions, and internet-enabled operations for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS3230",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS3230.htm",
+    "title": "Java Programming for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Teaches Java programming fundamentals for business applications and software development for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS3240",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS3240.htm",
+    "title": "Advanced Business Programming in Python",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Extends Python programming for more advanced business automation and analysis tasks for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS3331",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS3331.htm",
+    "title": "Database Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers database concepts, administration, and practical management for business systems for practical study."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS3501",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS3501.htm",
+    "title": "Cybersecurity for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces cybersecurity concepts for business settings, focusing on threats, risk management, and practical protection measures."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4340",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4340.htm",
+    "title": "Search Engine Optimization",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers search engine optimization techniques, content strategy, and analytics for improving online visibility."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4435",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4435.htm",
+    "title": "Governance & Regulatory Compliance for Financial Information Systems",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines governance and regulatory compliance practices for financial information systems and their control environment."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4532",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4532.htm",
+    "title": "Global Project Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops project management skills for coordinating teams, timelines, and deliverables in global business contexts."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4834",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4834.htm",
+    "title": "Business Intelligence and Analytics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces business intelligence methods for turning data into reports, insights, and decision support."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4837",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4837.htm",
+    "title": "Regulatory Compliance for Financial Services Technologies",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on compliance requirements and technology practices used in regulated financial services environments."
+  },
+  {
+    "department": "Information Systems",
+    "course_code": "IS4861",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/IS4861.htm",
+    "title": "Machine Learning for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores machine learning tools and applications for solving business problems and improving decisions."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2401",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2401.htm",
+    "title": "French 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory French speaking, listening, reading, and writing skills for everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2501",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2501.htm",
+    "title": "German 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory German speaking, listening, reading, and writing skills for everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2601",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2601.htm",
+    "title": "Spanish 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory Spanish speaking, listening, reading, and writing skills for everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2930",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2930.htm",
+    "title": "Japanese 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory Japanese speaking, listening, reading, and writing skills for everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2956",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2956.htm",
+    "title": "Mandarin for Non-Chinese Speakers 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory Mandarin skills for non-Chinese speakers, with emphasis on everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2973",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2973.htm",
+    "title": "Korean 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory Korean speaking, listening, reading, and writing skills for everyday communication."
+  },
+  {
+    "department": "CFML CSL Language Centre",
+    "course_code": "LC2996",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LC2996.htm",
+    "title": "Basic Cantonese for Non-Chinese Speakers 1",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds introductory Cantonese skills for non-Chinese speakers, with emphasis on everyday communication."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "GE1132",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1132.htm",
+    "title": "Mind, Brain and Language: How Are Human Beings Special?",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how mind and brain shape language, highlighting what may make human language unique."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "GE2124",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2124.htm",
+    "title": "The World through Languages",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how different languages shape communication, culture, and ways of understanding the world."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT2203",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT2203.htm",
+    "title": "Language in Society",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies how language functions in society, including identity, power, and everyday interaction."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT2229",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT2229.htm",
+    "title": "Fundamentals of Linguistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces core linguistic concepts, including structure, meaning, sound, syntax, and language use."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT2231",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT2231.htm",
+    "title": "Introduction to Language Technology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces computational and digital tools used to analyze, process, and support language."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3211",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3211.htm",
+    "title": "Semantics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies how meaning is built and interpreted in language across words, phrases, and sentences."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3214",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3214.htm",
+    "title": "Phonology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines speech sounds and sound systems, including how they are organized and contrasted."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3216",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3216.htm",
+    "title": "Chinese Linguistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Analyzes Chinese language structure, usage, and variation from a broad linguistic perspective."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3234",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3234.htm",
+    "title": "Language and Cognition",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how language and thought interact in human communication, learning, and reasoning."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3348",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3348.htm",
+    "title": "Translation for Government and Public Administration",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Trains students to translate materials for government and public administration settings professionally."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT3350",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT3350.htm",
+    "title": "Translation for the Media",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Trains students to translate materials for media contexts, balancing speed, clarity, and style."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT4226",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT4226.htm",
+    "title": "Second Language Acquisition",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how people learn a second language and the factors that shape progress."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT4245",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT4245.htm",
+    "title": "Psycholinguistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies language processing, comprehension, and production through psychological and cognitive human perspectives."
+  },
+  {
+    "department": "Linguistics and Translation",
+    "course_code": "LT4361",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/LT4361.htm",
+    "title": "Specialized Translation in Commerce and Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on specialized translation for commerce and finance, emphasizing accuracy and domain terminology."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1006",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1006.htm",
+    "title": "Calculus and Linear Algebra for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces calculus and linear algebra with business-oriented applications and quantitative problem solving."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1200",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1200.htm",
+    "title": "Calculus and Basic Linear Algebra I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers foundational calculus and basic linear algebra concepts for students beginning advanced mathematics."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1201",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1201.htm",
+    "title": "Calculus and Basic Linear Algebra II",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Extends foundational calculus and linear algebra topics with additional techniques and applications."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1300",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1300.htm",
+    "title": "Enhanced Calculus and Linear Algebra I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Presents a strengthened first course in calculus and linear algebra with deeper problem solving."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1502",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1502.htm",
+    "title": "Algebra",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces algebraic structures, equations, and methods for solving mathematical problems systematically and efficiently."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA1508",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA1508.htm",
+    "title": "Calculus",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers core calculus ideas, including limits, derivatives, integrals, and their basic applications."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2001",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2001.htm",
+    "title": "Multi-variable Calculus and Linear Algebra",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Extends calculus and linear algebra to functions of several variables and higher-dimensional systems."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2158",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2158.htm",
+    "title": "Linear Algebra and Calculus",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Combines linear algebra and calculus topics for students needing a compact mathematical foundation."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2172",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2172.htm",
+    "title": "Applied Statistics for Sciences and Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Applies statistics to scientific and engineering data, emphasizing interpretation and quantitative analysis."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2177",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2177.htm",
+    "title": "Engineering Mathematics and Statistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers mathematical and statistical tools commonly used in engineering analysis and modeling."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2185",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2185.htm",
+    "title": "Discrete Mathematics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces discrete mathematics, including core logic, combinatorics, graphs, and fundamental proof techniques."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2503",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2503.htm",
+    "title": "Linear Algebra",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies vector spaces, linear transformations, eigenvalues, and other core linear algebra topics."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2508",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2508.htm",
+    "title": "Multi-variable Calculus",
+    "credit_units": "4",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops multivariable calculus skills for analyzing functions, gradients, and optimization in several variables."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2509",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2509.htm",
+    "title": "Discrete Mathematics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces discrete mathematics with emphasis on logic, counting, structures, and mathematical reasoning."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA2510",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA2510.htm",
+    "title": "Probability and Statistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers probability models, statistical inference, and data analysis methods for quantifying uncertainty."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA3512",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA3512.htm",
+    "title": "Partial Differential Equations",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies partial differential equations and techniques for solving mathematical models of continuous systems."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA3518",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA3518.htm",
+    "title": "Applied Statistics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops statistical methods for analyzing data, making inferences, and interpreting results carefully."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA3521",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA3521.htm",
+    "title": "Introductory Mathematical Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces mathematical finance concepts, including pricing ideas, risk, and quantitative market analysis."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA3525",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA3525.htm",
+    "title": "Elementary Numerical Methods",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers numerical techniques for approximating solutions to mathematical problems and equations efficiently."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA4528",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA4528.htm",
+    "title": "Introduction to Dynamical Systems and Chaos",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces dynamical systems and chaos, emphasizing nonlinear behavior and long-term system evolution."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA4542",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA4542.htm",
+    "title": "Real Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies rigorous analysis of real-valued functions, limits, continuity, differentiation, and integration principles."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA4545",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA4545.htm",
+    "title": "Applied Differential Geometry",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces differential geometry tools for studying curves, surfaces, and advanced geometric structure."
+  },
+  {
+    "department": "Mathematics",
+    "course_code": "MA4554",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MA4554.htm",
+    "title": "Statistical Foundations of Data Science",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Presents the statistical foundations needed for modern data science, including inference and modeling."
+  },
+  {
+    "department": "Management",
+    "course_code": "CB2300",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2300.htm",
+    "title": "Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Provides a broad introduction to management principles, organizational behavior, and decision making."
+  },
+  {
+    "department": "Management",
+    "course_code": "CB3043",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB3043.htm",
+    "title": "Business Case Analysis and Communication",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops business case analysis and communication skills for presenting ideas clearly and persuasively."
+  },
+  {
+    "department": "Management",
+    "course_code": "CB4303",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB4303.htm",
+    "title": "Strategic Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines strategic management concepts for analyzing competition, advantage, and long-term direction effectively."
+  },
+  {
+    "department": "Management",
+    "course_code": "GE1216",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1216.htm",
+    "title": "Loving Work, Working to Love",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores the relationship between work, fulfillment, and personal values in professional life."
+  },
+  {
+    "department": "Management",
+    "course_code": "GE2230",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2230.htm",
+    "title": "Innovation and Entrepreneurship in Global Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces innovation and entrepreneurship concepts for launching and growing ventures in global business."
+  },
+  {
+    "department": "Management",
+    "course_code": "GE3204",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE3204.htm",
+    "title": "Business and Hong Kong Society",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines how business activity interacts with Hong Kong society, institutions, and public life."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT2324",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT2324.htm",
+    "title": "Introduction to Entrepreneurship",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces entrepreneurship fundamentals, including opportunity recognition, venture planning, and practical startup execution."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT3302",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT3302.htm",
+    "title": "Interactive Skills Workshop for Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Builds practical business communication and interpersonal skills through interactive guided workshop activities."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT3305",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT3305.htm",
+    "title": "Corporate Social Responsibility",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores corporate social responsibility and how firms address ethical, social, and environmental issues."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT3306",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT3306.htm",
+    "title": "Organizational Behavior and Human Resources Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies organizational behavior and human resources management through people, performance, and workplace systems."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT4227",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT4227.htm",
+    "title": "International Business",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines international business operations, strategy, and challenges across different countries and markets."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT4309",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT4309.htm",
+    "title": "Talent Management: Learning and Development",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Focuses on talent management through learning, development, and strategic workforce capability building."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT4310",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT4310.htm",
+    "title": "Managing Multinationals",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores how multinational firms coordinate strategy, operations, and management across borders globally."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT4314",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT4314.htm",
+    "title": "Negotiation",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Develops negotiation skills for reaching agreements, managing conflict, and creating value effectively."
+  },
+  {
+    "department": "Management",
+    "course_code": "MGT4315",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MGT4315.htm",
+    "title": "Leadership",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines leadership practices, styles, and behaviors that influence teams and organizations effectively."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "CB2601",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB2601.htm",
+    "title": "Marketing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces marketing principles, customer needs, and the tools used to create demand."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "CB3645",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB3645.htm",
+    "title": "Marketing Research",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers marketing research methods for collecting, analyzing, and using customer and market data."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "CB4601",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/CB4601.htm",
+    "title": "Global Marketing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Explores marketing strategy across countries, cultures, and diverse international market conditions for business."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "GE2248",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2248.htm",
+    "title": "Persuasion in Everyday Life",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines persuasion in everyday settings, including how messages influence attitudes and choices."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "MKT3601",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MKT3601.htm",
+    "title": "China Business Environment",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Studies the China business environment, including market conditions, institutions, and commercial practices."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "MKT3607",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MKT3607.htm",
+    "title": "Design Thinking and Creativity in Marketing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Uses design thinking and creative methods to develop marketing ideas and customer solutions."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "MKT4625",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MKT4625.htm",
+    "title": "Advertising Management and Integrated Marketing Communications",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Covers advertising management and integrated marketing communications across coordinated modern promotional channels."
+  },
+  {
+    "department": "Marketing",
+    "course_code": "MKT4637",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MKT4637.htm",
+    "title": "Event Marketing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Examines event marketing planning, promotion, and execution for audience engagement and brand visibility."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "GE2301",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2301.htm",
+    "title": "Science and Technology: Fascinating Mechanical Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces mechanical engineering through scientific and technological applications, highlighting the field's scope and impact."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE2109",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE2109.htm",
+    "title": "Engineering Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers engineering mechanics, including forces, motion, equilibrium, and structural response analysis principles."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3007",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3007.htm",
+    "title": "CAD/CAM",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces CAD/CAM methods for designing and manufacturing mechanical components and systems efficiently."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3046",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3046.htm",
+    "title": "Automation Technology",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines automation technology used to control processes, machines, and modern industrial operations."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3107",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3107.htm",
+    "title": "Principles of Nuclear Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces the principles governing nuclear engineering systems, safety, and practical energy applications."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3111",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3111.htm",
+    "title": "Introduction to Nuclear Power Plant",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers the fundamentals of nuclear power plants, including operation, systems, and safety."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3115",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3115.htm",
+    "title": "Microelectromechanical Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores microelectromechanical systems and their design, fabrication, testing, and practical engineering applications."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3118",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3118.htm",
+    "title": "Mechanics of Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies how materials respond to loads, stress, strain, and deformation in engineering contexts."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3120",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3120.htm",
+    "title": "Measurement and Instrumentation",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers measurement and instrumentation methods for capturing and analyzing accurate engineering data."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3202.htm",
+    "title": "Aircraft Dynamics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces aircraft dynamics, including flight motion, stability, control, and overall aircraft behavior."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3203",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3203.htm",
+    "title": "Aerospace Propulsion Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies aerospace propulsion systems and the principles behind producing thrust efficiently for flight."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE3204",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE3204.htm",
+    "title": "NDT Technologies for Aircraft Structures and Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers nondestructive testing methods for evaluating aircraft structures and materials safely and reliably."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE4109",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE4109.htm",
+    "title": "Reliability Engineering and Risk Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Develops reliability engineering and risk analysis methods for assessing failure and uncertainty."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE4201",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE4201.htm",
+    "title": "Aerodynamics",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines aerodynamics, including airflow behavior, lift, drag, and performance of aircraft and vehicles."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "course_code": "MNE4204",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MNE4204.htm",
+    "title": "Signals, Sensors and Communication Systems",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies signals, sensors, and communication systems used in modern connected engineering applications."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "GE2309",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2309.htm",
+    "title": "The World of NANO: The Next Big Thing Is Really Small",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "Introduces nanoscience and nanotechnology, showing how very small structures create unusual properties and applications."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE2104",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE2104.htm",
+    "title": "Mechanical Behaviour of Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies how materials deform, strengthen, and fail under repeated mechanical loading conditions."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE2106",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE2106.htm",
+    "title": "Quantum Properties of Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores quantum behavior in materials and how it shapes their physical properties."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE3111",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE3111.htm",
+    "title": "Ceramic Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Introduces ceramic materials, including their processing, properties, and practical engineering applications in modern settings."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE3130",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE3130.htm",
+    "title": "Biomaterials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines biomaterials used in medical and biological applications for research and practice."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE3171",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE3171.htm",
+    "title": "Materials Characterization",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Covers techniques for characterizing materials and measuring their structure and properties precisely."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE3190",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE3190.htm",
+    "title": "Thermodynamics of Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Studies thermodynamics as applied to materials behavior, stability, and phase changes in practice."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE3244",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE3244.htm",
+    "title": "Design Laboratory",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Provides hands-on design laboratory experience for applying materials and engineering concepts through projects."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE4170",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE4170.htm",
+    "title": "Corrosion and Protection of Materials",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Examines corrosion processes and protection methods for preserving material performance over time."
+  },
+  {
+    "department": "Materials Sci & Engineering",
+    "course_code": "MSE4178",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/MSE4178.htm",
+    "title": "Nanostructures and Nanotechnology",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "Explores nanostructures and nanotechnology, focusing on fabrication, behavior, and practical materials applications."
+  },
+  {
+    "department": "Physics",
+    "course_code": "GE1305",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1305.htm",
+    "title": "Foundation Physics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course introduces Foundation Physics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY1101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY1101.htm",
+    "title": "Introductory Classical Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Classical Mechanics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY1201",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY1201.htm",
+    "title": "General Physics I",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores General Physics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY1202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY1202.htm",
+    "title": "General Physics II",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores General Physics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY2212",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY2212.htm",
+    "title": "Measurement and Instrumentation",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course develops practical skills in Measurement and Instrumentation through hands-on, practice-oriented work."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY2400",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY2400.htm",
+    "title": "Advanced Physics for Biologists",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Physics for Biologists for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY3202",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY3202.htm",
+    "title": "Modern Physics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Modern Physics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY3205",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY3205.htm",
+    "title": "Electrodynamics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Electrodynamics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY3220",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY3220.htm",
+    "title": "From Physics to Finance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Physics to Finance for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY3231",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY3231.htm",
+    "title": "Advanced Instrumentation Lab",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course develops practical skills in Instrumentation Lab through hands-on, practice-oriented work."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY3251",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY3251.htm",
+    "title": "Quantum Mechanics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Quantum Mechanics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY4172",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY4172.htm",
+    "title": "Computational Physics and Machine Learning",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Computational Physics and Machine Learning for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY4232",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY4232.htm",
+    "title": "Radiotherapy Physics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Radiotherapy Physics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Physics",
+    "course_code": "PHY4254",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PHY4254.htm",
+    "title": "Fundamentals of Laser Optics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Physics course explores Laser Optics for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE1109",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1109.htm",
+    "title": "Values and Justice in the Contemporary World",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Values and Justice in the Contemporary World through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2120",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2120.htm",
+    "title": "Asian Values and Managerial Practices",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Asian Values and Managerial Practices for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2134",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2134.htm",
+    "title": "Critical and Creative Thinking",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Critical and Creative Thinking for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2135",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2135.htm",
+    "title": "World Religions",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines World Religions through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2210",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2210.htm",
+    "title": "China: A Socio-Political Transformation",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores China: A Socio-Political Transformation for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2239",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2239.htm",
+    "title": "Food: Culture, Science and Society",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Food: Culture, Science and Society through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2244",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2244.htm",
+    "title": "The Hidden City: Space, Power and Social Processes in Hong Kong",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines urban space, power, and social processes in Hong Kong through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE2267",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2267.htm",
+    "title": "Exploring Public Affairs in Globalised Cities",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Public Affairs in Globalised Cities for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "GE3207",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE3207.htm",
+    "title": "Comparing Capitalisms in East Asia and the West",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines comparative capitalism in East Asia and the West through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2012",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2012.htm",
+    "title": "Social Research Methods",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course covers Social Research Methods through structured methods and analysis."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2030",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2030.htm",
+    "title": "Traditions of Inquiry in the Social Sciences",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Traditions of Inquiry in the Social Sciences for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2032",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2032.htm",
+    "title": "Hong Kong: Continuity and Change",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Hong Kong: Continuity and Change for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2050",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2050.htm",
+    "title": "Comparative Politics and Societies",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Comparative Politics and Societies through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2104",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2104.htm",
+    "title": "Hong Kong Governance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Hong Kong Governance through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2224",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2224.htm",
+    "title": "Environmental Issues and Sustainable Development",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Environmental Issues and Sustainable Development through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2307",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2307.htm",
+    "title": "Introduction to Public Governance",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines public governance through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2308",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2308.htm",
+    "title": "Working with Clients in Public Service",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Working with Clients in Public Service for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2405",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2405.htm",
+    "title": "Introduction to Confucian Political Philosophy",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Confucian political philosophy through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA2530",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA2530.htm",
+    "title": "Exploring Public Affairs in Globalised Cities",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Public Affairs in Globalised Cities for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3031",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3031.htm",
+    "title": "Political Dynamics in Asia",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Political Dynamics in Asia for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3032",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3032.htm",
+    "title": "State and Economy in Asia",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores State and Economy in Asia for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3033",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3033.htm",
+    "title": "Culture and Change in Asia",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Culture and Change in Asia through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3046",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3046.htm",
+    "title": "Asian Migration and the Global Diasporas",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Asian Migration and the Global Diasporas through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3109",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3109.htm",
+    "title": "Approaches in Political Analysis",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course covers Approaches in Political Analysis through structured methods and analysis."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3113",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3113.htm",
+    "title": "Issues in Contemporary World Politics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Issues in Contemporary World Politics through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3120",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3120.htm",
+    "title": "Politics and Media",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Politics and Media through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3121",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3121.htm",
+    "title": "Theories of International Relations",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Theories of International Relations for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3123",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3123.htm",
+    "title": "Theories of Development",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Theories of Development through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3142",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3142.htm",
+    "title": "Global Social Movements",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Global Social Movements for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3207",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3207.htm",
+    "title": "Health Care Policy and Ethics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Health Care Policy and Ethics through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3241",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3241.htm",
+    "title": "Policy Processes and Institutions",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Policy Processes and Institutions through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3306",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3306.htm",
+    "title": "Organizational Behaviour for Public Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores Organizational Behaviour for Public Management for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3410",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3410.htm",
+    "title": "Management Ethics",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Management Ethics through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3503",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3503.htm",
+    "title": "Urbanization and Health Management",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Urbanization and Health Management through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3544",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3544.htm",
+    "title": "East Asia and Globalization",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course explores East Asia and Globalization for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3921",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3921.htm",
+    "title": "Urban and Social Policy",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Urban and Social Policy through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA3984",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA3984.htm",
+    "title": "Korean Culture",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Korean Culture through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA4921",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA4921.htm",
+    "title": "Japanese Culture",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Japanese Culture through applied, real-world perspectives."
+  },
+  {
+    "department": "Public & International Affairs",
+    "course_code": "PIA4953",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/PIA4953.htm",
+    "title": "Housing Policy in Contemporary Society",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Public & International Affairs course examines Housing Policy in Contemporary Society through applied, real-world perspectives."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "GE1110",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1110.htm",
+    "title": "Exploring Contemporary Art",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course explores Contemporary Art for students building a practical foundation in the topic."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "GE1128",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1128.htm",
+    "title": "Music for Film",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course explores Music for Film for students building a practical foundation in the topic."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM1013",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM1013.htm",
+    "title": "Introduction to Photography",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Photography through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2231",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2231.htm",
+    "title": "3D Animation I - Basic",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in 3D Animation through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2266",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2266.htm",
+    "title": "Graphic Communication",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Graphic Communication through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2277",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2277.htm",
+    "title": "Life Drawing",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course explores Life Drawing for students building a practical foundation in the topic."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2713",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2713.htm",
+    "title": "2D Animation I - Basic",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in 2D Animation through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2718",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2718.htm",
+    "title": "Object Art Production",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Object Art Production through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2720",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2720.htm",
+    "title": "Black and White Photography",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Black and White Photography through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM2722",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM2722.htm",
+    "title": "Sound Objects",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Sound Objects through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM3130",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM3130.htm",
+    "title": "Sound Installation and Sound Spatialisation",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Sound Installation and Sound Spatialisation through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM3150",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM3150.htm",
+    "title": "Location Sound Recording",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Location Sound Recording through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM3734",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM3734.htm",
+    "title": "Art Photography",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Art Photography through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM3737",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM3737.htm",
+    "title": "Expanded Photography",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Expanded Photography through hands-on, practice-oriented work."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM3801",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM3801.htm",
+    "title": "Understanding Data",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course explores Data for students building a practical foundation in the topic."
+  },
+  {
+    "department": "School of Creative Media",
+    "course_code": "SM4125",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SM4125.htm",
+    "title": "Computer Animation for Interactive Content",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit School of Creative Media course develops practical skills in Computer Animation for Interactive Content through hands-on, practice-oriented work."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "GE1137",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE1137.htm",
+    "title": "Movies and Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Movies and Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "GE2109",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2109.htm",
+    "title": "Love, Sex, and Relationships: Psychological Perspectives",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Love, Sex, and Relationships: Psychological Perspectives through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "GE2129",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2129.htm",
+    "title": "Psychology for Young Professionals",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Psychology for Young Professionals through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "GE2211",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2211.htm",
+    "title": "Sexuality, Culture and Diversity",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Sexuality, Culture and Diversity through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS1011",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS1011.htm",
+    "title": "Social Welfare Services and Issues",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Social Welfare Services and Issues for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS2029",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS2029.htm",
+    "title": "Basic Sociology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Sociology for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS2030",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS2030.htm",
+    "title": "Introduction to Crime Science",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Crime Science for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS2033",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS2033.htm",
+    "title": "Research Methods for Behavioural Sciences",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course covers Research Methods for Behavioural Sciences through structured methods and analysis."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS2712",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS2712.htm",
+    "title": "Personality and Individual Differences",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Personality and Individual Differences for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3417",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3417.htm",
+    "title": "Applied Sociological Theory",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Applied Sociological Theory for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3423",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3423.htm",
+    "title": "Advanced Applied Quantitative Research Methods",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course covers Applied Quantitative Research Methods through structured methods and analysis."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3710",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3710.htm",
+    "title": "Psychology of Childhood and Adolescence",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Psychology of Childhood and Adolescence through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3711",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3711.htm",
+    "title": "Biological Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Biological Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3712",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3712.htm",
+    "title": "Cognitive Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Cognitive Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3721",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3721.htm",
+    "title": "Abnormal Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Abnormal Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS3726",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS3726.htm",
+    "title": "Designing Experiments in Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Designing Experiments in Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS4300",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS4300.htm",
+    "title": "Advanced Criminological Theory",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course explores Criminological Theory for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS4585",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS4585.htm",
+    "title": "Social Capital and Sustainable Development",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Social Capital and Sustainable Development through applied, real-world perspectives."
+  },
+  {
+    "department": "Social and Behavioural Sci",
+    "course_code": "SS4715",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SS4715.htm",
+    "title": "Introduction to Health Psychology",
+    "credit_units": "3",
+    "part_of_ceng": "No",
+    "remarks": "",
+    "description": "This 3-credit Social and Behavioural Sci course examines Health Psychology through applied, real-world perspectives."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "GE2304",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2304.htm",
+    "title": "Foundations of Innovation and Entrepreneurship",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores Innovation and Entrepreneurship within the CENG curriculum for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "GE2336",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/GE2336.htm",
+    "title": "Systems Thinking to Understanding Phenomena",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores systems thinking and complex phenomena within the CENG curriculum for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE2011",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE2011.htm",
+    "title": "Fundamental Engineering Analysis and Design for Manufacturing Engineers II",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course covers engineering analysis and design for manufacturing engineers within the CENG curriculum through structured methods and analysis."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE2066",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE2066.htm",
+    "title": "Professional Engineering Practice",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores Professional Engineering Practice within the CENG curriculum for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE2100",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE2100.htm",
+    "title": "Engineering Statistics and Experimentation",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course covers Engineering Statistics and Experimentation within the CENG curriculum through structured methods and analysis."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE3004",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE3004.htm",
+    "title": "Production Planning and Control",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course develops practical skills in Production Planning and Control within the CENG curriculum through hands-on, practice-oriented work."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE3101",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE3101.htm",
+    "title": "Basic Methodologies and Tools for Risk Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores risk engineering tools within the CENG curriculum for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE3102",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE3102.htm",
+    "title": "Quality Engineering",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores Quality Engineering within the CENG curriculum for students building a practical foundation in the topic."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE4003",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE4003.htm",
+    "title": "Artificial Intelligence and Advanced Technology in Manufacturing and Operations",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course deepens study of artificial intelligence and advanced manufacturing operations within the CENG curriculum for students extending prior knowledge."
+  },
+  {
+    "department": "Systems Engineering",
+    "course_code": "SYE4024",
+    "course_url": "http://www.cityu.edu.hk/ug/current/course/SYE4024.htm",
+    "title": "Project Management",
+    "credit_units": "3",
+    "part_of_ceng": "Yes",
+    "remarks": "",
+    "description": "This 3-credit Systems Engineering course explores Project Management within the CENG curriculum for students building a practical foundation in the topic."
+  }
+]

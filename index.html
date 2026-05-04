@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Course Ranker</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar" aria-label="Course ranking controls">
+        <div>
+          <p class="eyebrow">Course Ranker</p>
+          <h1>Choose the course you would rather take.</h1>
+        </div>
+        <div class="stats-strip">
+          <div>
+            <span id="totalCourses">0</span>
+            <small>courses</small>
+          </div>
+          <div>
+            <span id="matchCount">0</span>
+            <small>choices</small>
+          </div>
+          <div>
+            <span id="ratedCount">0</span>
+            <small>ranked</small>
+          </div>
+          <div>
+            <span id="shotCount">0</span>
+            <small>shots</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Filters and actions">
+        <label>
+          Department
+          <select id="departmentFilter"></select>
+        </label>
+        <label class="checkbox-control">
+          <input id="cengOnly" type="checkbox">
+          <span>CENG only</span>
+        </label>
+        <label>
+          Ranking style
+          <select id="pairingMode">
+            <option value="balanced">Balanced</option>
+            <option value="discover">Discover new courses</option>
+            <option value="close">Close calls</option>
+          </select>
+        </label>
+        <div class="button-row">
+          <button id="undoButton" type="button" class="secondary">Undo</button>
+          <button id="skipButton" type="button" class="secondary">Skip</button>
+          <button id="resetButton" type="button" class="danger">Reset</button>
+        </div>
+      </section>
+
+      <section class="game-grid" aria-live="polite">
+        <article class="course-panel" id="leftPanel">
+          <div class="course-meta">
+            <span id="leftCode"></span>
+            <span id="leftCredits"></span>
+          </div>
+          <h2 id="leftTitle"></h2>
+          <p id="leftDepartment"></p>
+          <p id="leftDescription"></p>
+          <div class="course-footer">
+            <span id="leftCeng"></span>
+            <a id="leftLink" href="#" target="_blank" rel="noreferrer">Open course</a>
+          </div>
+          <button id="chooseLeft" type="button" class="pick-button">Pick this course</button>
+        </article>
+
+        <div class="middle-actions">
+          <div class="versus" aria-hidden="true">VS</div>
+          <button id="likeBothButton" type="button" class="like-button">Like both</button>
+          <button id="hateBothButton" type="button" class="hate-button">Hate both</button>
+        </div>
+
+        <article class="course-panel" id="rightPanel">
+          <div class="course-meta">
+            <span id="rightCode"></span>
+            <span id="rightCredits"></span>
+          </div>
+          <h2 id="rightTitle"></h2>
+          <p id="rightDepartment"></p>
+          <p id="rightDescription"></p>
+          <div class="course-footer">
+            <span id="rightCeng"></span>
+            <a id="rightLink" href="#" target="_blank" rel="noreferrer">Open course</a>
+          </div>
+          <button id="chooseRight" type="button" class="pick-button">Pick this course</button>
+        </article>
+      </section>
+
+      <section class="rankings-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Leaderboard</p>
+            <h2>Your current course ranking</h2>
+          </div>
+          <button id="exportButton" type="button" class="secondary">Export JSON</button>
+        </div>
+        <ol id="rankingList" class="ranking-list"></ol>
+      </section>
+    </main>
+
+    <aside id="shotBreak" class="shot-break" aria-live="assertive" aria-hidden="true">
+      <div class="shot-card" role="dialog" aria-modal="false" aria-labelledby="shotTitle">
+        <div class="shot-man" aria-hidden="true">
+          <div class="head"></div>
+          <div class="body"></div>
+          <div class="arm arm-left"></div>
+          <div class="arm arm-right"></div>
+          <div class="glass"></div>
+        </div>
+        <div class="shot-copy">
+          <p class="eyebrow">Random break</p>
+          <h2 id="shotTitle">Take a shot.</h2>
+          <p id="shotMessage">He took one too. Your streak is saved across sessions.</p>
+          <div class="shot-stats">
+            <span><strong id="userShotCount">0</strong> you</span>
+            <span><strong id="manShotCount">0</strong> him</span>
+          </div>
+          <div class="shot-actions">
+            <button id="confirmShot" type="button">Done</button>
+            <button id="dismissShot" type="button" class="secondary">Later</button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <script src="game.js"></script>
+  </body>
+</html>
