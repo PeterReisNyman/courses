@@ -16,103 +16,103 @@
     "BME2036": 1016,
     "BME2102": 1016,
     "BME2104": 1016,
-    "BME2105": 1000,
+    "BME2105": 1016,
     "BME3104": 1016,
     "BME3121": 1016,
     "BME3123": 984,
-    "GE1320": 984,
-    "BMS2005": 1000,
+    "GE1320": 952,
+    "BMS2005": 984,
     "BMS2202": 1016,
     "BMS3101": 984,
     "BMS4001": 984,
     "BMS4003B": 1016,
-    "BMS4007": 1000,
+    "BMS4007": 1016,
     "GE1341": 984,
-    "CA2169": 1000,
-    "CA2213": 984,
-    "CA2311": 1000,
+    "CA2169": 968,
+    "CA2213": 1016,
+    "CA2311": 968,
     "CA2343A": 1000,
-    "CA2343B": 984,
-    "CA2345": 1016,
-    "CA2346": 1000,
+    "CA2343B": 952,
+    "CA2345": 1048,
+    "CA2346": 952,
     "CA2673": 1000,
     "CA2674": 984,
-    "CA2675": 1016,
-    "CA2744": 1000,
-    "CA3144": 1000,
+    "CA2675": 1032,
+    "CA2744": 952,
+    "CA3144": 952,
     "CA3170": 1016,
-    "CA3214": 1000,
-    "CA3314": 1000,
-    "CA3349A": 1000,
-    "CA3349B": 984,
-    "CA3619": 1000,
-    "CA3629": 1000,
-    "CA3632": 1000,
+    "CA3214": 984,
+    "CA3314": 952,
+    "CA3349A": 968,
+    "CA3349B": 952,
+    "CA3619": 984,
+    "CA3629": 968,
+    "CA3632": 1016,
     "CA3687": 1000,
-    "CA3703": 1000,
-    "CA3704": 1000,
-    "CA3712": 1000,
-    "CA3722": 1000,
-    "CA3732": 1000,
-    "CA4174": 1000,
-    "CA4413": 1000,
-    "CA4424": 1000,
-    "CA4617": 1000,
-    "CA4665": 1000,
+    "CA3703": 952,
+    "CA3704": 968,
+    "CA3712": 968,
+    "CA3722": 968,
+    "CA3732": 968,
+    "CA4174": 968,
+    "CA4413": 968,
+    "CA4424": 952,
+    "CA4617": 952,
+    "CA4665": 984,
     "CA4717": 1000,
-    "CA4727": 1000,
-    "CA4737": 984,
-    "GE2327": 1000,
+    "CA4727": 968,
+    "CA4737": 968,
+    "GE2327": 968,
     "GE1105": 984,
-    "GE1125": 1000,
-    "GE1138": 1000,
-    "GE1501": 1000,
-    "GE2132": 1000,
+    "GE1125": 984,
+    "GE1138": 1016,
+    "GE1501": 1016,
+    "GE2132": 1016,
     "CHEM1200": 1000,
-    "CHEM1300": 1000,
-    "CHEM2006": 1000,
-    "CHEM2006A": 1000,
+    "CHEM1300": 1016,
+    "CHEM2006": 1016,
+    "CHEM2006A": 1016,
     "CHEM2007": 1000,
-    "CHEM2007A": 1000,
-    "CHEM3015": 1000,
-    "CHEM3015A": 1000,
-    "CHEM3027": 1000,
-    "CHEM3027A": 1000,
-    "CHEM3068": 1000,
-    "CHEM3068A": 1000,
-    "CHEM3081": 1000,
-    "CHEM4043": 1000,
-    "CHEM4084": 1000,
-    "COM2105": 1000,
-    "COM2401": 1000,
-    "COM3107": 1000,
+    "CHEM2007A": 1016,
+    "CHEM3015": 1016,
+    "CHEM3015A": 1016,
+    "CHEM3027": 1016,
+    "CHEM3027A": 1016,
+    "CHEM3068": 984,
+    "CHEM3068A": 984,
+    "CHEM3081": 1016,
+    "CHEM4043": 984,
+    "CHEM4084": 984,
+    "COM2105": 1016,
+    "COM2401": 1016,
+    "COM3107": 1016,
     "COM3203": 1000,
     "CS1102": 1000,
-    "CS1103B": 1000,
+    "CS1103B": 1016,
     "CS1302": 1000,
-    "CS2115": 1000,
-    "CS2311": 1000,
-    "CS2312": 1000,
+    "CS2115": 1016,
+    "CS2311": 984,
+    "CS2312": 984,
     "CS2360": 1000,
     "CS3103": 1000,
-    "CS3201": 1000,
-    "CS3334": 1000,
-    "CS3343": 1000,
+    "CS3201": 1016,
+    "CS3334": 984,
+    "CS3343": 1016,
     "CS3356": 1000,
-    "CS3402": 1000,
-    "CS3483": 1000,
+    "CS3402": 1016,
+    "CS3483": 984,
     "CS4182": 1000,
     "CS4185": 1000,
-    "CS4187": 1000,
+    "CS4187": 1016,
     "CS4335": 1000,
-    "CS4394": 1000,
+    "CS4394": 1016,
     "CS4480": 1000,
     "CS4487": 1000,
     "GE2313": 1000,
-    "GE2340": 1000,
+    "GE2340": 1016,
     "CB2200": 1000,
-    "CB2201": 1000,
-    "GE2213": 1000,
+    "CB2201": 984,
+    "GE2213": 1016,
     "MS4224": 1000,
     "GE1356": 1000,
     "SDSC2001": 1000,
@@ -125,13 +125,13 @@
     "SEE2204": 1000,
     "SEE3002": 1000,
     "SEE3101": 1000,
-    "SEE3102": 1000,
+    "SEE3102": 1016,
     "SEE3103": 1000,
     "SEE3205": 1000,
-    "SEE4002": 1000,
+    "SEE4002": 984,
     "SEE4003": 1000,
     "SEE4112": 1000,
-    "SEE4120": 1000,
+    "SEE4120": 984,
     "SEE4122": 1000,
     "SEE4218": 1000,
     "SEE4993": 1000,
@@ -139,14 +139,14 @@
     "SEE4995": 1000,
     "SEE4998": 1000,
     "SEE4999": 1000,
-    "EE2004": 1000,
-    "EE2302": 1000,
-    "EE3001": 1000,
-    "EE3114": 1000,
-    "EE3123": 1000,
-    "EE4036": 1000,
-    "EE4101": 1000,
-    "EE4142": 1000,
+    "EE2004": 1032,
+    "EE2302": 1032,
+    "EE3001": 984,
+    "EE3114": 1048,
+    "EE3123": 968,
+    "EE4036": 1032,
+    "EE4101": 968,
+    "EE4142": 1032,
     "CB2041": 1000,
     "CB2400": 1000,
     "CB2402": 1000,
@@ -273,30 +273,30 @@
     "MKT4625": 1000,
     "MKT4637": 1000,
     "GE2301": 1000,
-    "MNE2109": 1000,
-    "MNE3007": 1000,
+    "MNE2109": 1016,
+    "MNE3007": 968,
     "MNE3046": 1000,
-    "MNE3107": 1000,
+    "MNE3107": 1032,
     "MNE3111": 1000,
     "MNE3115": 1000,
     "MNE3118": 1000,
-    "MNE3120": 1000,
-    "MNE3202": 1000,
+    "MNE3120": 968,
+    "MNE3202": 1032,
     "MNE3203": 1000,
-    "MNE3204": 1000,
-    "MNE4109": 1000,
+    "MNE3204": 968,
+    "MNE4109": 1032,
     "MNE4201": 1000,
     "MNE4204": 1000,
     "GE2309": 1000,
-    "MSE2104": 1000,
+    "MSE2104": 1032,
     "MSE2106": 1000,
-    "MSE3111": 1000,
-    "MSE3130": 1000,
+    "MSE3111": 968,
+    "MSE3130": 1032,
     "MSE3171": 1000,
-    "MSE3190": 1000,
+    "MSE3190": 967,
     "MSE3244": 1000,
     "MSE4170": 1000,
-    "MSE4178": 1000,
+    "MSE4178": 1016,
     "GE1305": 1000,
     "PHY1101": 1000,
     "PHY1201": 1000,
@@ -385,16 +385,16 @@
     "SS4300": 1000,
     "SS4585": 1000,
     "SS4715": 1000,
-    "GE2304": 1000,
-    "GE2336": 1000,
-    "SYE2011": 1000,
+    "GE2304": 1001,
+    "GE2336": 1016,
+    "SYE2011": 984,
     "SYE2066": 1000,
-    "SYE2100": 1000,
-    "SYE3004": 1000,
+    "SYE2100": 1016,
+    "SYE3004": 1032,
     "SYE3101": 1000,
-    "SYE3102": 1000,
-    "SYE4003": 1000,
-    "SYE4024": 1000
+    "SYE3102": 968,
+    "SYE4003": 1016,
+    "SYE4024": 1016
   },
   "games": {
     "AC3202": 1,
@@ -413,103 +413,103 @@
     "BME2036": 1,
     "BME2102": 1,
     "BME2104": 1,
-    "BME2105": 0,
+    "BME2105": 1,
     "BME3104": 1,
     "BME3121": 1,
     "BME3123": 1,
-    "GE1320": 1,
-    "BMS2005": 0,
+    "GE1320": 3,
+    "BMS2005": 1,
     "BMS2202": 1,
     "BMS3101": 1,
     "BMS4001": 1,
     "BMS4003B": 1,
-    "BMS4007": 0,
+    "BMS4007": 1,
     "GE1341": 1,
-    "CA2169": 0,
-    "CA2213": 1,
-    "CA2311": 0,
-    "CA2343A": 0,
-    "CA2343B": 1,
-    "CA2345": 1,
-    "CA2346": 0,
-    "CA2673": 0,
+    "CA2169": 2,
+    "CA2213": 3,
+    "CA2311": 2,
+    "CA2343A": 2,
+    "CA2343B": 3,
+    "CA2345": 3,
+    "CA2346": 3,
+    "CA2673": 2,
     "CA2674": 1,
-    "CA2675": 1,
-    "CA2744": 0,
-    "CA3144": 0,
-    "CA3170": 1,
-    "CA3214": 0,
-    "CA3314": 0,
-    "CA3349A": 0,
-    "CA3349B": 1,
-    "CA3619": 0,
-    "CA3629": 0,
-    "CA3632": 0,
-    "CA3687": 0,
-    "CA3703": 0,
-    "CA3704": 0,
-    "CA3712": 0,
-    "CA3722": 0,
-    "CA3732": 0,
-    "CA4174": 0,
-    "CA4413": 0,
-    "CA4424": 0,
-    "CA4617": 0,
-    "CA4665": 0,
-    "CA4717": 0,
-    "CA4727": 0,
-    "CA4737": 1,
-    "GE2327": 0,
+    "CA2675": 2,
+    "CA2744": 3,
+    "CA3144": 3,
+    "CA3170": 3,
+    "CA3214": 1,
+    "CA3314": 3,
+    "CA3349A": 2,
+    "CA3349B": 3,
+    "CA3619": 3,
+    "CA3629": 2,
+    "CA3632": 3,
+    "CA3687": 2,
+    "CA3703": 3,
+    "CA3704": 2,
+    "CA3712": 2,
+    "CA3722": 2,
+    "CA3732": 2,
+    "CA4174": 2,
+    "CA4413": 2,
+    "CA4424": 3,
+    "CA4617": 3,
+    "CA4665": 3,
+    "CA4717": 2,
+    "CA4727": 2,
+    "CA4737": 2,
+    "GE2327": 2,
     "GE1105": 1,
-    "GE1125": 0,
-    "GE1138": 0,
-    "GE1501": 0,
-    "GE2132": 0,
+    "GE1125": 1,
+    "GE1138": 1,
+    "GE1501": 1,
+    "GE2132": 1,
     "CHEM1200": 0,
-    "CHEM1300": 0,
-    "CHEM2006": 0,
-    "CHEM2006A": 0,
+    "CHEM1300": 1,
+    "CHEM2006": 1,
+    "CHEM2006A": 1,
     "CHEM2007": 0,
-    "CHEM2007A": 0,
-    "CHEM3015": 0,
-    "CHEM3015A": 0,
-    "CHEM3027": 0,
-    "CHEM3027A": 0,
-    "CHEM3068": 0,
-    "CHEM3068A": 0,
-    "CHEM3081": 0,
-    "CHEM4043": 0,
-    "CHEM4084": 0,
-    "COM2105": 0,
-    "COM2401": 0,
-    "COM3107": 0,
+    "CHEM2007A": 1,
+    "CHEM3015": 1,
+    "CHEM3015A": 1,
+    "CHEM3027": 1,
+    "CHEM3027A": 1,
+    "CHEM3068": 1,
+    "CHEM3068A": 1,
+    "CHEM3081": 1,
+    "CHEM4043": 1,
+    "CHEM4084": 1,
+    "COM2105": 1,
+    "COM2401": 1,
+    "COM3107": 1,
     "COM3203": 0,
     "CS1102": 0,
-    "CS1103B": 0,
+    "CS1103B": 1,
     "CS1302": 0,
-    "CS2115": 0,
-    "CS2311": 0,
-    "CS2312": 0,
+    "CS2115": 1,
+    "CS2311": 1,
+    "CS2312": 1,
     "CS2360": 0,
     "CS3103": 0,
-    "CS3201": 0,
-    "CS3334": 0,
-    "CS3343": 0,
+    "CS3201": 1,
+    "CS3334": 1,
+    "CS3343": 1,
     "CS3356": 0,
-    "CS3402": 0,
-    "CS3483": 0,
+    "CS3402": 1,
+    "CS3483": 1,
     "CS4182": 0,
     "CS4185": 0,
-    "CS4187": 0,
+    "CS4187": 1,
     "CS4335": 0,
-    "CS4394": 0,
+    "CS4394": 1,
     "CS4480": 0,
     "CS4487": 0,
-    "GE2313": 0,
-    "GE2340": 0,
+    "GE2313": 2,
+    "GE2340": 1,
     "CB2200": 0,
-    "CB2201": 0,
-    "GE2213": 0,
+    "CB2201": 1,
+    "GE2213": 1,
     "MS4224": 0,
     "GE1356": 0,
     "SDSC2001": 0,
@@ -522,13 +522,13 @@
     "SEE2204": 0,
     "SEE3002": 0,
     "SEE3101": 0,
-    "SEE3102": 0,
+    "SEE3102": 1,
     "SEE3103": 0,
     "SEE3205": 0,
-    "SEE4002": 0,
+    "SEE4002": 1,
     "SEE4003": 0,
     "SEE4112": 0,
-    "SEE4120": 0,
+    "SEE4120": 1,
     "SEE4122": 0,
     "SEE4218": 0,
     "SEE4993": 0,
@@ -536,14 +536,14 @@
     "SEE4995": 0,
     "SEE4998": 0,
     "SEE4999": 0,
-    "EE2004": 0,
-    "EE2302": 0,
-    "EE3001": 0,
-    "EE3114": 0,
-    "EE3123": 0,
-    "EE4036": 0,
-    "EE4101": 0,
-    "EE4142": 0,
+    "EE2004": 2,
+    "EE2302": 2,
+    "EE3001": 3,
+    "EE3114": 3,
+    "EE3123": 2,
+    "EE4036": 2,
+    "EE4101": 2,
+    "EE4142": 2,
     "CB2041": 0,
     "CB2400": 0,
     "CB2402": 0,
@@ -669,31 +669,31 @@
     "MKT3607": 0,
     "MKT4625": 0,
     "MKT4637": 0,
-    "GE2301": 0,
-    "MNE2109": 0,
-    "MNE3007": 0,
-    "MNE3046": 0,
-    "MNE3107": 0,
-    "MNE3111": 0,
+    "GE2301": 2,
+    "MNE2109": 3,
+    "MNE3007": 2,
+    "MNE3046": 2,
+    "MNE3107": 2,
+    "MNE3111": 2,
     "MNE3115": 0,
-    "MNE3118": 0,
-    "MNE3120": 0,
-    "MNE3202": 0,
-    "MNE3203": 0,
-    "MNE3204": 0,
-    "MNE4109": 0,
-    "MNE4201": 0,
-    "MNE4204": 0,
+    "MNE3118": 2,
+    "MNE3120": 2,
+    "MNE3202": 2,
+    "MNE3203": 2,
+    "MNE3204": 2,
+    "MNE4109": 2,
+    "MNE4201": 2,
+    "MNE4204": 2,
     "GE2309": 0,
-    "MSE2104": 0,
-    "MSE2106": 0,
-    "MSE3111": 0,
-    "MSE3130": 0,
-    "MSE3171": 0,
-    "MSE3190": 0,
-    "MSE3244": 0,
-    "MSE4170": 0,
-    "MSE4178": 0,
+    "MSE2104": 2,
+    "MSE2106": 2,
+    "MSE3111": 2,
+    "MSE3130": 2,
+    "MSE3171": 2,
+    "MSE3190": 2,
+    "MSE3244": 2,
+    "MSE4170": 2,
+    "MSE4178": 1,
     "GE1305": 0,
     "PHY1101": 0,
     "PHY1201": 0,
@@ -782,16 +782,16 @@
     "SS4300": 0,
     "SS4585": 0,
     "SS4715": 0,
-    "GE2304": 0,
-    "GE2336": 0,
-    "SYE2011": 0,
-    "SYE2066": 0,
-    "SYE2100": 0,
-    "SYE3004": 0,
-    "SYE3101": 0,
-    "SYE3102": 0,
-    "SYE4003": 0,
-    "SYE4024": 0
+    "GE2304": 2,
+    "GE2336": 1,
+    "SYE2011": 1,
+    "SYE2066": 2,
+    "SYE2100": 1,
+    "SYE3004": 2,
+    "SYE3101": 2,
+    "SYE3102": 2,
+    "SYE4003": 1,
+    "SYE4024": 1
   },
   "history": [
     {
@@ -1133,6 +1133,1989 @@
           "games": 0
         }
       }
+    },
+    {
+      "id": "1777919493531-bysdihgs",
+      "type": "choice",
+      "winner": "CA2343A",
+      "loser": "CA2346",
+      "chosenSide": "left",
+      "pair": [
+        "CA2343A",
+        "CA2346"
+      ],
+      "before": {
+        "CA2343A": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA2346": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919505830-fxvb5t08",
+      "type": "choice",
+      "winner": "BMS4007",
+      "loser": "CA3314",
+      "chosenSide": "right",
+      "pair": [
+        "CA3314",
+        "BMS4007"
+      ],
+      "before": {
+        "BMS4007": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3314": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919555398-62tjj5y5",
+      "type": "choice",
+      "winner": "CHEM3015",
+      "loser": "CA3144",
+      "chosenSide": "right",
+      "pair": [
+        "CA3144",
+        "CHEM3015"
+      ],
+      "before": {
+        "CHEM3015": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3144": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919559330-1nj2uo24",
+      "type": "choice",
+      "winner": "CHEM3027",
+      "loser": "BMS2005",
+      "chosenSide": "left",
+      "pair": [
+        "CHEM3027",
+        "BMS2005"
+      ],
+      "before": {
+        "CHEM3027": {
+          "rating": 1000,
+          "games": 0
+        },
+        "BMS2005": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919562713-0b65z3q8",
+      "type": "choice",
+      "winner": "CA4717",
+      "loser": "CA2311",
+      "chosenSide": "left",
+      "pair": [
+        "CA4717",
+        "CA2311"
+      ],
+      "before": {
+        "CA4717": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA2311": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919623446-cxfb8g9i",
+      "type": "hateBoth",
+      "pair": [
+        "CA3732",
+        "CA2744"
+      ],
+      "before": {
+        "CA3732": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA2744": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919627312-qe83xmnm",
+      "type": "choice",
+      "winner": "COM2401",
+      "loser": "CA3629",
+      "chosenSide": "left",
+      "pair": [
+        "COM2401",
+        "CA3629"
+      ],
+      "before": {
+        "COM2401": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3629": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919662597-afjkxb84",
+      "type": "choice",
+      "winner": "BME2105",
+      "loser": "CA3704",
+      "chosenSide": "right",
+      "pair": [
+        "CA3704",
+        "BME2105"
+      ],
+      "before": {
+        "BME2105": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3704": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919675496-qdm1lfq9",
+      "type": "choice",
+      "winner": "CA2673",
+      "loser": "CA3214",
+      "chosenSide": "left",
+      "pair": [
+        "CA2673",
+        "CA3214"
+      ],
+      "before": {
+        "CA2673": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3214": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919681412-zavqpjbu",
+      "type": "choice",
+      "winner": "CA3687",
+      "loser": "CA4174",
+      "chosenSide": "left",
+      "pair": [
+        "CA3687",
+        "CA4174"
+      ],
+      "before": {
+        "CA3687": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4174": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919688629-sowd17yh",
+      "type": "choice",
+      "winner": "CS1103B",
+      "loser": "CA3712",
+      "chosenSide": "right",
+      "pair": [
+        "CA3712",
+        "CS1103B"
+      ],
+      "before": {
+        "CS1103B": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3712": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919707647-xqhv6wsc",
+      "type": "choice",
+      "winner": "CA3632",
+      "loser": "CHEM3068",
+      "chosenSide": "left",
+      "pair": [
+        "CA3632",
+        "CHEM3068"
+      ],
+      "before": {
+        "CA3632": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM3068": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919793562-5miv4psq",
+      "type": "choice",
+      "winner": "COM2105",
+      "loser": "CA4617",
+      "chosenSide": "left",
+      "pair": [
+        "COM2105",
+        "CA4617"
+      ],
+      "before": {
+        "COM2105": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4617": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919810394-4o0mnjsk",
+      "type": "hateBoth",
+      "pair": [
+        "CA2169",
+        "GE2327"
+      ],
+      "before": {
+        "CA2169": {
+          "rating": 1000,
+          "games": 0
+        },
+        "GE2327": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919814411-zqng251j",
+      "type": "choice",
+      "winner": "GE1501",
+      "loser": "CA3722",
+      "chosenSide": "left",
+      "pair": [
+        "GE1501",
+        "CA3722"
+      ],
+      "before": {
+        "GE1501": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3722": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919826928-0tngcogw",
+      "type": "choice",
+      "winner": "CS4187",
+      "loser": "CA4413",
+      "chosenSide": "left",
+      "pair": [
+        "CS4187",
+        "CA4413"
+      ],
+      "before": {
+        "CS4187": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4413": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919864312-e0tensyy",
+      "type": "choice",
+      "winner": "CHEM2006",
+      "loser": "CA3349A",
+      "chosenSide": "left",
+      "pair": [
+        "CHEM2006",
+        "CA3349A"
+      ],
+      "before": {
+        "CHEM2006": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3349A": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919907127-c7o2r9l7",
+      "type": "choice",
+      "winner": "CS3402",
+      "loser": "CA3703",
+      "chosenSide": "left",
+      "pair": [
+        "CS3402",
+        "CA3703"
+      ],
+      "before": {
+        "CS3402": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3703": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919936729-6mg9sh77",
+      "type": "likeBoth",
+      "pair": [
+        "GE1138",
+        "CHEM2006A"
+      ],
+      "before": {
+        "GE1138": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM2006A": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919950677-vkqfwqzw",
+      "type": "choice",
+      "winner": "GE2132",
+      "loser": "CA4727",
+      "chosenSide": "right",
+      "pair": [
+        "CA4727",
+        "GE2132"
+      ],
+      "before": {
+        "GE2132": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4727": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777919971161-h44m5a6z",
+      "type": "choice",
+      "winner": "CHEM1300",
+      "loser": "CHEM4043",
+      "chosenSide": "left",
+      "pair": [
+        "CHEM1300",
+        "CHEM4043"
+      ],
+      "before": {
+        "CHEM1300": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM4043": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920000044-qclrvm2z",
+      "type": "hateBoth",
+      "pair": [
+        "CS3334",
+        "GE1125"
+      ],
+      "before": {
+        "CS3334": {
+          "rating": 1000,
+          "games": 0
+        },
+        "GE1125": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920079844-wcd4sf7e",
+      "type": "choice",
+      "winner": "GE2213",
+      "loser": "CA3619",
+      "chosenSide": "left",
+      "pair": [
+        "GE2213",
+        "CA3619"
+      ],
+      "before": {
+        "GE2213": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA3619": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920094777-9opu3wac",
+      "type": "choice",
+      "winner": "CS4394",
+      "loser": "CA4424",
+      "chosenSide": "left",
+      "pair": [
+        "CS4394",
+        "CA4424"
+      ],
+      "before": {
+        "CS4394": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4424": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920123809-v0myum1s",
+      "type": "choice",
+      "winner": "CHEM2007A",
+      "loser": "CS2312",
+      "chosenSide": "left",
+      "pair": [
+        "CHEM2007A",
+        "CS2312"
+      ],
+      "before": {
+        "CHEM2007A": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CS2312": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920174092-8756rngk",
+      "type": "choice",
+      "winner": "COM3107",
+      "loser": "CS3483",
+      "chosenSide": "right",
+      "pair": [
+        "CS3483",
+        "COM3107"
+      ],
+      "before": {
+        "COM3107": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CS3483": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920316609-tas6fgux",
+      "type": "choice",
+      "winner": "CS2115",
+      "loser": "CS2311",
+      "chosenSide": "left",
+      "pair": [
+        "CS2115",
+        "CS2311"
+      ],
+      "before": {
+        "CS2115": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CS2311": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920525108-oye1k6et",
+      "type": "likeBoth",
+      "pair": [
+        "CHEM3027A",
+        "CHEM3015A"
+      ],
+      "before": {
+        "CHEM3027A": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM3015A": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920537240-cblr6yvk",
+      "type": "choice",
+      "winner": "CS3201",
+      "loser": "SEE4002",
+      "chosenSide": "left",
+      "pair": [
+        "CS3201",
+        "SEE4002"
+      ],
+      "before": {
+        "CS3201": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SEE4002": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920545573-ei461i18",
+      "type": "choice",
+      "winner": "CS3343",
+      "loser": "GE2313",
+      "chosenSide": "left",
+      "pair": [
+        "CS3343",
+        "GE2313"
+      ],
+      "before": {
+        "CS3343": {
+          "rating": 1000,
+          "games": 0
+        },
+        "GE2313": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920550557-8ja4vmj8",
+      "type": "choice",
+      "winner": "CHEM3081",
+      "loser": "CB2201",
+      "chosenSide": "left",
+      "pair": [
+        "CHEM3081",
+        "CB2201"
+      ],
+      "before": {
+        "CHEM3081": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CB2201": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920593791-7j4goc3o",
+      "type": "hateBoth",
+      "pair": [
+        "SEE4120",
+        "CHEM3068A"
+      ],
+      "before": {
+        "SEE4120": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM3068A": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920695289-6oc2gtot",
+      "type": "choice",
+      "winner": "EE2004",
+      "loser": "MNE3007",
+      "chosenSide": "right",
+      "pair": [
+        "MNE3007",
+        "EE2004"
+      ],
+      "before": {
+        "EE2004": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3007": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920728723-obknyhem",
+      "type": "choice",
+      "winner": "GE2301",
+      "loser": "MNE3120",
+      "chosenSide": "left",
+      "pair": [
+        "GE2301",
+        "MNE3120"
+      ],
+      "before": {
+        "GE2301": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3120": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920753026-lgzspyx3",
+      "type": "choice",
+      "winner": "MNE3107",
+      "loser": "MNE3204",
+      "chosenSide": "left",
+      "pair": [
+        "MNE3107",
+        "MNE3204"
+      ],
+      "before": {
+        "MNE3107": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3204": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777920841926-kcq7wnw4",
+      "type": "choice",
+      "winner": "MSE2106",
+      "loser": "CA4665",
+      "chosenSide": "right",
+      "pair": [
+        "CA4665",
+        "MSE2106"
+      ],
+      "before": {
+        "MSE2106": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CA4665": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921389491-y29keei2",
+      "type": "hateBoth",
+      "pair": [
+        "CA3349A",
+        "CA2311"
+      ],
+      "before": {
+        "CA3349A": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA2311": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1777921394408-tubbv2x0",
+      "type": "likeBoth",
+      "pair": [
+        "GE2340",
+        "SYE4024"
+      ],
+      "before": {
+        "GE2340": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SYE4024": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921410856-96nl28wd",
+      "type": "choice",
+      "winner": "EE4142",
+      "loser": "MNE3203",
+      "chosenSide": "left",
+      "pair": [
+        "EE4142",
+        "MNE3203"
+      ],
+      "before": {
+        "EE4142": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3203": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921417423-wlw8a2ba",
+      "type": "likeBoth",
+      "pair": [
+        "EE4036",
+        "SYE4003"
+      ],
+      "before": {
+        "EE4036": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SYE4003": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921422506-67afybft",
+      "type": "choice",
+      "winner": "MNE3046",
+      "loser": "MSE3111",
+      "chosenSide": "right",
+      "pair": [
+        "MSE3111",
+        "MNE3046"
+      ],
+      "before": {
+        "MNE3046": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MSE3111": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921495391-0r3bhp78",
+      "type": "choice",
+      "winner": "MSE3130",
+      "loser": "MNE3118",
+      "chosenSide": "right",
+      "pair": [
+        "MNE3118",
+        "MSE3130"
+      ],
+      "before": {
+        "MSE3130": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3118": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921511574-lb2szf1n",
+      "type": "choice",
+      "winner": "CA2213",
+      "loser": "GE1320",
+      "chosenSide": "left",
+      "pair": [
+        "CA2213",
+        "GE1320"
+      ],
+      "before": {
+        "CA2213": {
+          "rating": 984,
+          "games": 1
+        },
+        "GE1320": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1777921590492-t40ipcfe",
+      "type": "hateBoth",
+      "pair": [
+        "CA2346",
+        "CA3314"
+      ],
+      "before": {
+        "CA2346": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3314": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1777921644208-ni3whw9x",
+      "type": "likeBoth",
+      "pair": [
+        "EE2302",
+        "SYE3101"
+      ],
+      "before": {
+        "EE2302": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SYE3101": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921671208-jw9qp7fi",
+      "type": "hateBoth",
+      "pair": [
+        "SYE3102",
+        "MNE3111"
+      ],
+      "before": {
+        "SYE3102": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE3111": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921738876-r53o08dt",
+      "type": "hateBoth",
+      "pair": [
+        "EE4101",
+        "EE3123"
+      ],
+      "before": {
+        "EE4101": {
+          "rating": 1000,
+          "games": 0
+        },
+        "EE3123": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777921884978-vh9nzdq0",
+      "type": "choice",
+      "winner": "GE2336",
+      "loser": "MSE3171",
+      "chosenSide": "left",
+      "pair": [
+        "GE2336",
+        "MSE3171"
+      ],
+      "before": {
+        "GE2336": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MSE3171": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777922137889-7r0bcxd2",
+      "type": "choice",
+      "winner": "SYE2100",
+      "loser": "EE3001",
+      "chosenSide": "right",
+      "pair": [
+        "EE3001",
+        "SYE2100"
+      ],
+      "before": {
+        "SYE2100": {
+          "rating": 1000,
+          "games": 0
+        },
+        "EE3001": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1777922525255-5biwya6u",
+      "type": "hateBoth",
+      "pair": [
+        "CA3704",
+        "CA3619"
+      ],
+      "before": {
+        "CA3704": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3619": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1777922534905-jm84g19d",
+      "type": "hateBoth",
+      "pair": [
+        "CA3349B",
+        "CA3732"
+      ],
+      "before": {
+        "CA3349B": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3732": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778010959768-kpo69zqh",
+      "type": "choice",
+      "winner": "CA2345",
+      "loser": "CA2343A",
+      "chosenSide": "right",
+      "pair": [
+        "CA2343A",
+        "CA2345"
+      ],
+      "before": {
+        "CA2345": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA2343A": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778010973535-ir0hqx14",
+      "type": "likeBoth",
+      "pair": [
+        "MNE4109",
+        "MNE2109"
+      ],
+      "before": {
+        "MNE4109": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE2109": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778011055069-pdqebiqw",
+      "type": "choice",
+      "winner": "EE3114",
+      "loser": "GE2304",
+      "chosenSide": "right",
+      "pair": [
+        "GE2304",
+        "EE3114"
+      ],
+      "before": {
+        "EE3114": {
+          "rating": 1000,
+          "games": 0
+        },
+        "GE2304": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778011430445-ybqebix2",
+      "type": "choice",
+      "winner": "EE2302",
+      "loser": "CA4717",
+      "chosenSide": "right",
+      "pair": [
+        "CA4717",
+        "EE2302"
+      ],
+      "before": {
+        "EE2302": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA4717": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778011434762-www3ejou",
+      "type": "choice",
+      "winner": "EE3001",
+      "loser": "CA3629",
+      "chosenSide": "right",
+      "pair": [
+        "CA3629",
+        "EE3001"
+      ],
+      "before": {
+        "EE3001": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3629": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778011440181-wcnv4g6s",
+      "type": "hateBoth",
+      "pair": [
+        "GE2327",
+        "CA3712"
+      ],
+      "before": {
+        "GE2327": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3712": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778011445614-nxdjjnf8",
+      "type": "hateBoth",
+      "pair": [
+        "CA4737",
+        "CA3144"
+      ],
+      "before": {
+        "CA4737": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3144": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778011468862-nf15my6p",
+      "type": "hateBoth",
+      "pair": [
+        "CA2169",
+        "CA2744"
+      ],
+      "before": {
+        "CA2169": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA2744": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778011503894-3445h67b",
+      "type": "choice",
+      "winner": "MSE2104",
+      "loser": "MSE3244",
+      "chosenSide": "left",
+      "pair": [
+        "MSE2104",
+        "MSE3244"
+      ],
+      "before": {
+        "MSE2104": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MSE3244": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778011542976-7swyvzb7",
+      "type": "choice",
+      "winner": "MNE3202",
+      "loser": "SYE2066",
+      "chosenSide": "left",
+      "pair": [
+        "MNE3202",
+        "SYE2066"
+      ],
+      "before": {
+        "MNE3202": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SYE2066": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778011552626-pparikps",
+      "type": "choice",
+      "winner": "EE4142",
+      "loser": "CA3687",
+      "chosenSide": "left",
+      "pair": [
+        "EE4142",
+        "CA3687"
+      ],
+      "before": {
+        "EE4142": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA3687": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012700319-6n4mrbc2",
+      "type": "choice",
+      "winner": "CA4665",
+      "loser": "CA4174",
+      "chosenSide": "right",
+      "pair": [
+        "CA4174",
+        "CA4665"
+      ],
+      "before": {
+        "CA4665": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA4174": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012714287-bn454anc",
+      "type": "choice",
+      "winner": "GE2313",
+      "loser": "CA2343B",
+      "chosenSide": "right",
+      "pair": [
+        "CA2343B",
+        "GE2313"
+      ],
+      "before": {
+        "GE2313": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA2343B": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012733569-8l7m5qfb",
+      "type": "choice",
+      "winner": "MNE3111",
+      "loser": "EE4101",
+      "chosenSide": "right",
+      "pair": [
+        "EE4101",
+        "MNE3111"
+      ],
+      "before": {
+        "MNE3111": {
+          "rating": 984,
+          "games": 1
+        },
+        "EE4101": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012739354-mm3q30py",
+      "type": "choice",
+      "winner": "EE4036",
+      "loser": "CA3170",
+      "chosenSide": "right",
+      "pair": [
+        "CA3170",
+        "EE4036"
+      ],
+      "before": {
+        "EE4036": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA3170": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012821485-fhmhdiot",
+      "type": "likeBoth",
+      "pair": [
+        "MSE2104",
+        "MNE2109"
+      ],
+      "before": {
+        "MSE2104": {
+          "rating": 1016,
+          "games": 1
+        },
+        "MNE2109": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778012832934-mxg9rou7",
+      "type": "likeBoth",
+      "pair": [
+        "CA3170",
+        "MSE4170"
+      ],
+      "before": {
+        "CA3170": {
+          "rating": 1000,
+          "games": 2
+        },
+        "MSE4170": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778012958800-kgwkh4ju",
+      "type": "hateBoth",
+      "pair": [
+        "CA4424",
+        "CA4617"
+      ],
+      "before": {
+        "CA4424": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA4617": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013109180-r5iz1hht",
+      "type": "choice",
+      "winner": "SYE2066",
+      "loser": "MNE3007",
+      "chosenSide": "left",
+      "pair": [
+        "SYE2066",
+        "MNE3007"
+      ],
+      "before": {
+        "SYE2066": {
+          "rating": 984,
+          "games": 1
+        },
+        "MNE3007": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013112829-qevh43n7",
+      "type": "choice",
+      "winner": "MSE3244",
+      "loser": "CA4413",
+      "chosenSide": "left",
+      "pair": [
+        "MSE3244",
+        "CA4413"
+      ],
+      "before": {
+        "MSE3244": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA4413": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013129730-udk4h7is",
+      "type": "choice",
+      "winner": "MNE3203",
+      "loser": "EE3123",
+      "chosenSide": "right",
+      "pair": [
+        "EE3123",
+        "MNE3203"
+      ],
+      "before": {
+        "MNE3203": {
+          "rating": 984,
+          "games": 1
+        },
+        "EE3123": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013142212-89m27oas",
+      "type": "choice",
+      "winner": "MNE4204",
+      "loser": "MNE4201",
+      "chosenSide": "left",
+      "pair": [
+        "MNE4204",
+        "MNE4201"
+      ],
+      "before": {
+        "MNE4204": {
+          "rating": 1000,
+          "games": 0
+        },
+        "MNE4201": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778013147429-ti3w1iyg",
+      "type": "choice",
+      "winner": "MNE3118",
+      "loser": "CA4727",
+      "chosenSide": "right",
+      "pair": [
+        "CA4727",
+        "MNE3118"
+      ],
+      "before": {
+        "MNE3118": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA4727": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013275659-im4ayt0h",
+      "type": "choice",
+      "winner": "EE2004",
+      "loser": "GE2301",
+      "chosenSide": "left",
+      "pair": [
+        "EE2004",
+        "GE2301"
+      ],
+      "before": {
+        "EE2004": {
+          "rating": 1016,
+          "games": 1
+        },
+        "GE2301": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013389441-6gbse066",
+      "type": "likeBoth",
+      "pair": [
+        "CA2675",
+        "CA3632"
+      ],
+      "before": {
+        "CA2675": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA3632": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013399856-3vpvtc6p",
+      "type": "choice",
+      "winner": "CA2345",
+      "loser": "CA3632",
+      "chosenSide": "right",
+      "pair": [
+        "CA3632",
+        "CA2345"
+      ],
+      "before": {
+        "CA2345": {
+          "rating": 1032,
+          "games": 2
+        },
+        "CA3632": {
+          "rating": 1032,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013414989-dd2n7rum",
+      "type": "choice",
+      "winner": "MNE3202",
+      "loser": "MNE3046",
+      "chosenSide": "right",
+      "pair": [
+        "MNE3046",
+        "MNE3202"
+      ],
+      "before": {
+        "MNE3202": {
+          "rating": 1016,
+          "games": 1
+        },
+        "MNE3046": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013434622-q7rsq2mv",
+      "type": "likeBoth",
+      "pair": [
+        "EE3114",
+        "MSE3130"
+      ],
+      "before": {
+        "EE3114": {
+          "rating": 1016,
+          "games": 1
+        },
+        "MSE3130": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013590352-cwxyis2x",
+      "type": "choice",
+      "winner": "MNE4109",
+      "loser": "SYE3101",
+      "chosenSide": "right",
+      "pair": [
+        "SYE3101",
+        "MNE4109"
+      ],
+      "before": {
+        "MNE4109": {
+          "rating": 1016,
+          "games": 1
+        },
+        "SYE3101": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013597121-6s509gkd",
+      "type": "choice",
+      "winner": "MSE4178",
+      "loser": "SYE2011",
+      "chosenSide": "left",
+      "pair": [
+        "MSE4178",
+        "SYE2011"
+      ],
+      "before": {
+        "MSE4178": {
+          "rating": 1000,
+          "games": 0
+        },
+        "SYE2011": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778013613252-m3e9xmkr",
+      "type": "choice",
+      "winner": "SYE3004",
+      "loser": "EE3001",
+      "chosenSide": "left",
+      "pair": [
+        "SYE3004",
+        "EE3001"
+      ],
+      "before": {
+        "SYE3004": {
+          "rating": 1000,
+          "games": 0
+        },
+        "EE3001": {
+          "rating": 1000,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013751119-ws3ew9tw",
+      "type": "hateBoth",
+      "pair": [
+        "CA2343B",
+        "CA3349B"
+      ],
+      "before": {
+        "CA2343B": {
+          "rating": 968,
+          "games": 2
+        },
+        "CA3349B": {
+          "rating": 968,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013759221-yhhl3sb1",
+      "type": "choice",
+      "winner": "CA3619",
+      "loser": "GE1320",
+      "chosenSide": "right",
+      "pair": [
+        "GE1320",
+        "CA3619"
+      ],
+      "before": {
+        "CA3619": {
+          "rating": 968,
+          "games": 2
+        },
+        "GE1320": {
+          "rating": 968,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013763454-4vl1oand",
+      "type": "hateBoth",
+      "pair": [
+        "CA3703",
+        "MSE3111"
+      ],
+      "before": {
+        "CA3703": {
+          "rating": 984,
+          "games": 1
+        },
+        "MSE3111": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013765605-2hk8gczs",
+      "type": "choice",
+      "winner": "MNE4201",
+      "loser": "CA3722",
+      "chosenSide": "right",
+      "pair": [
+        "CA3722",
+        "MNE4201"
+      ],
+      "before": {
+        "MNE4201": {
+          "rating": 984,
+          "games": 1
+        },
+        "CA3722": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013770022-ujtzba2g",
+      "type": "hateBoth",
+      "pair": [
+        "CA3703",
+        "CA3314"
+      ],
+      "before": {
+        "CA3703": {
+          "rating": 968,
+          "games": 2
+        },
+        "CA3314": {
+          "rating": 968,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013776236-2l8lt35h",
+      "type": "choice",
+      "winner": "GE2304",
+      "loser": "MSE3190",
+      "chosenSide": "left",
+      "pair": [
+        "GE2304",
+        "MSE3190"
+      ],
+      "before": {
+        "GE2304": {
+          "rating": 984,
+          "games": 1
+        },
+        "MSE3190": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
+    },
+    {
+      "id": "1778013820737-iw85f1bo",
+      "type": "hateBoth",
+      "pair": [
+        "CA3144",
+        "CA4424"
+      ],
+      "before": {
+        "CA3144": {
+          "rating": 968,
+          "games": 2
+        },
+        "CA4424": {
+          "rating": 968,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013840656-t2qno1so",
+      "type": "choice",
+      "winner": "CA2213",
+      "loser": "CA4665",
+      "chosenSide": "right",
+      "pair": [
+        "CA4665",
+        "CA2213"
+      ],
+      "before": {
+        "CA2213": {
+          "rating": 1000,
+          "games": 2
+        },
+        "CA4665": {
+          "rating": 1000,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013861254-v680rt0z",
+      "type": "choice",
+      "winner": "SYE3004",
+      "loser": "CA2673",
+      "chosenSide": "left",
+      "pair": [
+        "SYE3004",
+        "CA2673"
+      ],
+      "before": {
+        "SYE3004": {
+          "rating": 1016,
+          "games": 1
+        },
+        "CA2673": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013889272-yusxmr8c",
+      "type": "choice",
+      "winner": "MSE3171",
+      "loser": "SYE3102",
+      "chosenSide": "left",
+      "pair": [
+        "MSE3171",
+        "SYE3102"
+      ],
+      "before": {
+        "MSE3171": {
+          "rating": 984,
+          "games": 1
+        },
+        "SYE3102": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013935140-120z7b3o",
+      "type": "hateBoth",
+      "pair": [
+        "MSE3190",
+        "MNE3204"
+      ],
+      "before": {
+        "MSE3190": {
+          "rating": 983,
+          "games": 1
+        },
+        "MNE3204": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778013949805-rgyaae7w",
+      "type": "choice",
+      "winner": "EE3114",
+      "loser": "MNE2109",
+      "chosenSide": "right",
+      "pair": [
+        "MNE2109",
+        "EE3114"
+      ],
+      "before": {
+        "EE3114": {
+          "rating": 1032,
+          "games": 2
+        },
+        "MNE2109": {
+          "rating": 1032,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778013958554-pfzbmslf",
+      "type": "hateBoth",
+      "pair": [
+        "CA2346",
+        "MNE3120"
+      ],
+      "before": {
+        "CA2346": {
+          "rating": 968,
+          "games": 2
+        },
+        "MNE3120": {
+          "rating": 984,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778014041039-kpkb8oxk",
+      "type": "hateBoth",
+      "pair": [
+        "MNE4204",
+        "MSE2106"
+      ],
+      "before": {
+        "MNE4204": {
+          "rating": 1016,
+          "games": 1
+        },
+        "MSE2106": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778014044823-oo5kc50b",
+      "type": "choice",
+      "winner": "MNE3107",
+      "loser": "MSE4170",
+      "chosenSide": "right",
+      "pair": [
+        "MSE4170",
+        "MNE3107"
+      ],
+      "before": {
+        "MNE3107": {
+          "rating": 1016,
+          "games": 1
+        },
+        "MSE4170": {
+          "rating": 1016,
+          "games": 1
+        }
+      }
+    },
+    {
+      "id": "1778014302576-poyitvpu",
+      "type": "hateBoth",
+      "pair": [
+        "CA2744",
+        "CA4617"
+      ],
+      "before": {
+        "CA2744": {
+          "rating": 968,
+          "games": 2
+        },
+        "CA4617": {
+          "rating": 968,
+          "games": 2
+        }
+      }
+    },
+    {
+      "id": "1778014321076-o7d3zx3z",
+      "type": "choice",
+      "winner": "SEE3102",
+      "loser": "CHEM4084",
+      "chosenSide": "right",
+      "pair": [
+        "CHEM4084",
+        "SEE3102"
+      ],
+      "before": {
+        "SEE3102": {
+          "rating": 1000,
+          "games": 0
+        },
+        "CHEM4084": {
+          "rating": 1000,
+          "games": 0
+        }
+      }
     }
   ],
   "relations": [
@@ -1275,11 +3258,1001 @@
       "picked_course_code": "CB2100",
       "rejected_course_code": "AC4303",
       "chosen_side": "right"
+    },
+    {
+      "id": "1777919493531-bysdihgs",
+      "type": "picked",
+      "at": "2026-05-04T18:31:33.531Z",
+      "left_course_code": "CA2343A",
+      "right_course_code": "CA2346",
+      "picked_course_code": "CA2343A",
+      "rejected_course_code": "CA2346",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919505830-fxvb5t08",
+      "type": "picked",
+      "at": "2026-05-04T18:31:45.830Z",
+      "left_course_code": "CA3314",
+      "right_course_code": "BMS4007",
+      "picked_course_code": "BMS4007",
+      "rejected_course_code": "CA3314",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777919555398-62tjj5y5",
+      "type": "picked",
+      "at": "2026-05-04T18:32:35.398Z",
+      "left_course_code": "CA3144",
+      "right_course_code": "CHEM3015",
+      "picked_course_code": "CHEM3015",
+      "rejected_course_code": "CA3144",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777919559330-1nj2uo24",
+      "type": "picked",
+      "at": "2026-05-04T18:32:39.331Z",
+      "left_course_code": "CHEM3027",
+      "right_course_code": "BMS2005",
+      "picked_course_code": "CHEM3027",
+      "rejected_course_code": "BMS2005",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919562713-0b65z3q8",
+      "type": "picked",
+      "at": "2026-05-04T18:32:42.713Z",
+      "left_course_code": "CA4717",
+      "right_course_code": "CA2311",
+      "picked_course_code": "CA4717",
+      "rejected_course_code": "CA2311",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919623446-cxfb8g9i",
+      "type": "hated_both",
+      "at": "2026-05-04T18:33:43.446Z",
+      "left_course_code": "CA3732",
+      "right_course_code": "CA2744",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777919627312-qe83xmnm",
+      "type": "picked",
+      "at": "2026-05-04T18:33:47.312Z",
+      "left_course_code": "COM2401",
+      "right_course_code": "CA3629",
+      "picked_course_code": "COM2401",
+      "rejected_course_code": "CA3629",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919662597-afjkxb84",
+      "type": "picked",
+      "at": "2026-05-04T18:34:22.597Z",
+      "left_course_code": "CA3704",
+      "right_course_code": "BME2105",
+      "picked_course_code": "BME2105",
+      "rejected_course_code": "CA3704",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777919675496-qdm1lfq9",
+      "type": "picked",
+      "at": "2026-05-04T18:34:35.496Z",
+      "left_course_code": "CA2673",
+      "right_course_code": "CA3214",
+      "picked_course_code": "CA2673",
+      "rejected_course_code": "CA3214",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919681412-zavqpjbu",
+      "type": "picked",
+      "at": "2026-05-04T18:34:41.412Z",
+      "left_course_code": "CA3687",
+      "right_course_code": "CA4174",
+      "picked_course_code": "CA3687",
+      "rejected_course_code": "CA4174",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919688629-sowd17yh",
+      "type": "picked",
+      "at": "2026-05-04T18:34:48.629Z",
+      "left_course_code": "CA3712",
+      "right_course_code": "CS1103B",
+      "picked_course_code": "CS1103B",
+      "rejected_course_code": "CA3712",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777919707647-xqhv6wsc",
+      "type": "picked",
+      "at": "2026-05-04T18:35:07.647Z",
+      "left_course_code": "CA3632",
+      "right_course_code": "CHEM3068",
+      "picked_course_code": "CA3632",
+      "rejected_course_code": "CHEM3068",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919793562-5miv4psq",
+      "type": "picked",
+      "at": "2026-05-04T18:36:33.562Z",
+      "left_course_code": "COM2105",
+      "right_course_code": "CA4617",
+      "picked_course_code": "COM2105",
+      "rejected_course_code": "CA4617",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919810394-4o0mnjsk",
+      "type": "hated_both",
+      "at": "2026-05-04T18:36:50.394Z",
+      "left_course_code": "CA2169",
+      "right_course_code": "GE2327",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777919814411-zqng251j",
+      "type": "picked",
+      "at": "2026-05-04T18:36:54.411Z",
+      "left_course_code": "GE1501",
+      "right_course_code": "CA3722",
+      "picked_course_code": "GE1501",
+      "rejected_course_code": "CA3722",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919826928-0tngcogw",
+      "type": "picked",
+      "at": "2026-05-04T18:37:06.928Z",
+      "left_course_code": "CS4187",
+      "right_course_code": "CA4413",
+      "picked_course_code": "CS4187",
+      "rejected_course_code": "CA4413",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919864312-e0tensyy",
+      "type": "picked",
+      "at": "2026-05-04T18:37:44.312Z",
+      "left_course_code": "CHEM2006",
+      "right_course_code": "CA3349A",
+      "picked_course_code": "CHEM2006",
+      "rejected_course_code": "CA3349A",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919907127-c7o2r9l7",
+      "type": "picked",
+      "at": "2026-05-04T18:38:27.127Z",
+      "left_course_code": "CS3402",
+      "right_course_code": "CA3703",
+      "picked_course_code": "CS3402",
+      "rejected_course_code": "CA3703",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777919936729-6mg9sh77",
+      "type": "liked_both",
+      "at": "2026-05-04T18:38:56.729Z",
+      "left_course_code": "GE1138",
+      "right_course_code": "CHEM2006A",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777919950677-vkqfwqzw",
+      "type": "picked",
+      "at": "2026-05-04T18:39:10.677Z",
+      "left_course_code": "CA4727",
+      "right_course_code": "GE2132",
+      "picked_course_code": "GE2132",
+      "rejected_course_code": "CA4727",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777919971161-h44m5a6z",
+      "type": "picked",
+      "at": "2026-05-04T18:39:31.161Z",
+      "left_course_code": "CHEM1300",
+      "right_course_code": "CHEM4043",
+      "picked_course_code": "CHEM1300",
+      "rejected_course_code": "CHEM4043",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920000044-qclrvm2z",
+      "type": "hated_both",
+      "at": "2026-05-04T18:40:00.044Z",
+      "left_course_code": "CS3334",
+      "right_course_code": "GE1125",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777920079844-wcd4sf7e",
+      "type": "picked",
+      "at": "2026-05-04T18:41:19.844Z",
+      "left_course_code": "GE2213",
+      "right_course_code": "CA3619",
+      "picked_course_code": "GE2213",
+      "rejected_course_code": "CA3619",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920094777-9opu3wac",
+      "type": "picked",
+      "at": "2026-05-04T18:41:34.777Z",
+      "left_course_code": "CS4394",
+      "right_course_code": "CA4424",
+      "picked_course_code": "CS4394",
+      "rejected_course_code": "CA4424",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920123809-v0myum1s",
+      "type": "picked",
+      "at": "2026-05-04T18:42:03.809Z",
+      "left_course_code": "CHEM2007A",
+      "right_course_code": "CS2312",
+      "picked_course_code": "CHEM2007A",
+      "rejected_course_code": "CS2312",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920174092-8756rngk",
+      "type": "picked",
+      "at": "2026-05-04T18:42:54.092Z",
+      "left_course_code": "CS3483",
+      "right_course_code": "COM3107",
+      "picked_course_code": "COM3107",
+      "rejected_course_code": "CS3483",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777920316609-tas6fgux",
+      "type": "picked",
+      "at": "2026-05-04T18:45:16.609Z",
+      "left_course_code": "CS2115",
+      "right_course_code": "CS2311",
+      "picked_course_code": "CS2115",
+      "rejected_course_code": "CS2311",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920525108-oye1k6et",
+      "type": "liked_both",
+      "at": "2026-05-04T18:48:45.108Z",
+      "left_course_code": "CHEM3027A",
+      "right_course_code": "CHEM3015A",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777920537240-cblr6yvk",
+      "type": "picked",
+      "at": "2026-05-04T18:48:57.240Z",
+      "left_course_code": "CS3201",
+      "right_course_code": "SEE4002",
+      "picked_course_code": "CS3201",
+      "rejected_course_code": "SEE4002",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920545573-ei461i18",
+      "type": "picked",
+      "at": "2026-05-04T18:49:05.573Z",
+      "left_course_code": "CS3343",
+      "right_course_code": "GE2313",
+      "picked_course_code": "CS3343",
+      "rejected_course_code": "GE2313",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920550557-8ja4vmj8",
+      "type": "picked",
+      "at": "2026-05-04T18:49:10.557Z",
+      "left_course_code": "CHEM3081",
+      "right_course_code": "CB2201",
+      "picked_course_code": "CHEM3081",
+      "rejected_course_code": "CB2201",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920593791-7j4goc3o",
+      "type": "hated_both",
+      "at": "2026-05-04T18:49:53.791Z",
+      "left_course_code": "SEE4120",
+      "right_course_code": "CHEM3068A",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777920695289-6oc2gtot",
+      "type": "picked",
+      "at": "2026-05-04T18:51:35.289Z",
+      "left_course_code": "MNE3007",
+      "right_course_code": "EE2004",
+      "picked_course_code": "EE2004",
+      "rejected_course_code": "MNE3007",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777920728723-obknyhem",
+      "type": "picked",
+      "at": "2026-05-04T18:52:08.723Z",
+      "left_course_code": "GE2301",
+      "right_course_code": "MNE3120",
+      "picked_course_code": "GE2301",
+      "rejected_course_code": "MNE3120",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920753026-lgzspyx3",
+      "type": "picked",
+      "at": "2026-05-04T18:52:33.026Z",
+      "left_course_code": "MNE3107",
+      "right_course_code": "MNE3204",
+      "picked_course_code": "MNE3107",
+      "rejected_course_code": "MNE3204",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777920841926-kcq7wnw4",
+      "type": "picked",
+      "at": "2026-05-04T18:54:01.926Z",
+      "left_course_code": "CA4665",
+      "right_course_code": "MSE2106",
+      "picked_course_code": "MSE2106",
+      "rejected_course_code": "CA4665",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777921389491-y29keei2",
+      "type": "hated_both",
+      "at": "2026-05-04T19:03:09.491Z",
+      "left_course_code": "CA3349A",
+      "right_course_code": "CA2311",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921394408-tubbv2x0",
+      "type": "liked_both",
+      "at": "2026-05-04T19:03:14.408Z",
+      "left_course_code": "GE2340",
+      "right_course_code": "SYE4024",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921410856-96nl28wd",
+      "type": "picked",
+      "at": "2026-05-04T19:03:30.856Z",
+      "left_course_code": "EE4142",
+      "right_course_code": "MNE3203",
+      "picked_course_code": "EE4142",
+      "rejected_course_code": "MNE3203",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777921417423-wlw8a2ba",
+      "type": "liked_both",
+      "at": "2026-05-04T19:03:37.423Z",
+      "left_course_code": "EE4036",
+      "right_course_code": "SYE4003",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921422506-67afybft",
+      "type": "picked",
+      "at": "2026-05-04T19:03:42.506Z",
+      "left_course_code": "MSE3111",
+      "right_course_code": "MNE3046",
+      "picked_course_code": "MNE3046",
+      "rejected_course_code": "MSE3111",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777921495391-0r3bhp78",
+      "type": "picked",
+      "at": "2026-05-04T19:04:55.391Z",
+      "left_course_code": "MNE3118",
+      "right_course_code": "MSE3130",
+      "picked_course_code": "MSE3130",
+      "rejected_course_code": "MNE3118",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777921511574-lb2szf1n",
+      "type": "picked",
+      "at": "2026-05-04T19:05:11.574Z",
+      "left_course_code": "CA2213",
+      "right_course_code": "GE1320",
+      "picked_course_code": "CA2213",
+      "rejected_course_code": "GE1320",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777921590492-t40ipcfe",
+      "type": "hated_both",
+      "at": "2026-05-04T19:06:30.492Z",
+      "left_course_code": "CA2346",
+      "right_course_code": "CA3314",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921644208-ni3whw9x",
+      "type": "liked_both",
+      "at": "2026-05-04T19:07:24.208Z",
+      "left_course_code": "EE2302",
+      "right_course_code": "SYE3101",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921671208-jw9qp7fi",
+      "type": "hated_both",
+      "at": "2026-05-04T19:07:51.208Z",
+      "left_course_code": "SYE3102",
+      "right_course_code": "MNE3111",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921738876-r53o08dt",
+      "type": "hated_both",
+      "at": "2026-05-04T19:08:58.876Z",
+      "left_course_code": "EE4101",
+      "right_course_code": "EE3123",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777921884978-vh9nzdq0",
+      "type": "picked",
+      "at": "2026-05-04T19:11:24.978Z",
+      "left_course_code": "GE2336",
+      "right_course_code": "MSE3171",
+      "picked_course_code": "GE2336",
+      "rejected_course_code": "MSE3171",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1777922137889-7r0bcxd2",
+      "type": "picked",
+      "at": "2026-05-04T19:15:37.889Z",
+      "left_course_code": "EE3001",
+      "right_course_code": "SYE2100",
+      "picked_course_code": "SYE2100",
+      "rejected_course_code": "EE3001",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1777922525255-5biwya6u",
+      "type": "hated_both",
+      "at": "2026-05-04T19:22:05.255Z",
+      "left_course_code": "CA3704",
+      "right_course_code": "CA3619",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1777922534905-jm84g19d",
+      "type": "hated_both",
+      "at": "2026-05-04T19:22:14.905Z",
+      "left_course_code": "CA3349B",
+      "right_course_code": "CA3732",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778010959768-kpo69zqh",
+      "type": "picked",
+      "at": "2026-05-05T19:55:59.768Z",
+      "left_course_code": "CA2343A",
+      "right_course_code": "CA2345",
+      "picked_course_code": "CA2345",
+      "rejected_course_code": "CA2343A",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778010973535-ir0hqx14",
+      "type": "liked_both",
+      "at": "2026-05-05T19:56:13.535Z",
+      "left_course_code": "MNE4109",
+      "right_course_code": "MNE2109",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778011055069-pdqebiqw",
+      "type": "picked",
+      "at": "2026-05-05T19:57:35.069Z",
+      "left_course_code": "GE2304",
+      "right_course_code": "EE3114",
+      "picked_course_code": "EE3114",
+      "rejected_course_code": "GE2304",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778011430445-ybqebix2",
+      "type": "picked",
+      "at": "2026-05-05T20:03:50.445Z",
+      "left_course_code": "CA4717",
+      "right_course_code": "EE2302",
+      "picked_course_code": "EE2302",
+      "rejected_course_code": "CA4717",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778011434762-www3ejou",
+      "type": "picked",
+      "at": "2026-05-05T20:03:54.762Z",
+      "left_course_code": "CA3629",
+      "right_course_code": "EE3001",
+      "picked_course_code": "EE3001",
+      "rejected_course_code": "CA3629",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778011440181-wcnv4g6s",
+      "type": "hated_both",
+      "at": "2026-05-05T20:04:00.181Z",
+      "left_course_code": "GE2327",
+      "right_course_code": "CA3712",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778011445614-nxdjjnf8",
+      "type": "hated_both",
+      "at": "2026-05-05T20:04:05.614Z",
+      "left_course_code": "CA4737",
+      "right_course_code": "CA3144",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778011468862-nf15my6p",
+      "type": "hated_both",
+      "at": "2026-05-05T20:04:28.862Z",
+      "left_course_code": "CA2169",
+      "right_course_code": "CA2744",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778011503894-3445h67b",
+      "type": "picked",
+      "at": "2026-05-05T20:05:03.894Z",
+      "left_course_code": "MSE2104",
+      "right_course_code": "MSE3244",
+      "picked_course_code": "MSE2104",
+      "rejected_course_code": "MSE3244",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778011542976-7swyvzb7",
+      "type": "picked",
+      "at": "2026-05-05T20:05:42.976Z",
+      "left_course_code": "MNE3202",
+      "right_course_code": "SYE2066",
+      "picked_course_code": "MNE3202",
+      "rejected_course_code": "SYE2066",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778011552626-pparikps",
+      "type": "picked",
+      "at": "2026-05-05T20:05:52.626Z",
+      "left_course_code": "EE4142",
+      "right_course_code": "CA3687",
+      "picked_course_code": "EE4142",
+      "rejected_course_code": "CA3687",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778012700319-6n4mrbc2",
+      "type": "picked",
+      "at": "2026-05-05T20:25:00.319Z",
+      "left_course_code": "CA4174",
+      "right_course_code": "CA4665",
+      "picked_course_code": "CA4665",
+      "rejected_course_code": "CA4174",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778012714287-bn454anc",
+      "type": "picked",
+      "at": "2026-05-05T20:25:14.287Z",
+      "left_course_code": "CA2343B",
+      "right_course_code": "GE2313",
+      "picked_course_code": "GE2313",
+      "rejected_course_code": "CA2343B",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778012733569-8l7m5qfb",
+      "type": "picked",
+      "at": "2026-05-05T20:25:33.569Z",
+      "left_course_code": "EE4101",
+      "right_course_code": "MNE3111",
+      "picked_course_code": "MNE3111",
+      "rejected_course_code": "EE4101",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778012739354-mm3q30py",
+      "type": "picked",
+      "at": "2026-05-05T20:25:39.354Z",
+      "left_course_code": "CA3170",
+      "right_course_code": "EE4036",
+      "picked_course_code": "EE4036",
+      "rejected_course_code": "CA3170",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778012821485-fhmhdiot",
+      "type": "liked_both",
+      "at": "2026-05-05T20:27:01.485Z",
+      "left_course_code": "MSE2104",
+      "right_course_code": "MNE2109",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778012832934-mxg9rou7",
+      "type": "liked_both",
+      "at": "2026-05-05T20:27:12.934Z",
+      "left_course_code": "CA3170",
+      "right_course_code": "MSE4170",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778012958800-kgwkh4ju",
+      "type": "hated_both",
+      "at": "2026-05-05T20:29:18.800Z",
+      "left_course_code": "CA4424",
+      "right_course_code": "CA4617",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013109180-r5iz1hht",
+      "type": "picked",
+      "at": "2026-05-05T20:31:49.180Z",
+      "left_course_code": "SYE2066",
+      "right_course_code": "MNE3007",
+      "picked_course_code": "SYE2066",
+      "rejected_course_code": "MNE3007",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013112829-qevh43n7",
+      "type": "picked",
+      "at": "2026-05-05T20:31:52.829Z",
+      "left_course_code": "MSE3244",
+      "right_course_code": "CA4413",
+      "picked_course_code": "MSE3244",
+      "rejected_course_code": "CA4413",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013129730-udk4h7is",
+      "type": "picked",
+      "at": "2026-05-05T20:32:09.730Z",
+      "left_course_code": "EE3123",
+      "right_course_code": "MNE3203",
+      "picked_course_code": "MNE3203",
+      "rejected_course_code": "EE3123",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013142212-89m27oas",
+      "type": "picked",
+      "at": "2026-05-05T20:32:22.212Z",
+      "left_course_code": "MNE4204",
+      "right_course_code": "MNE4201",
+      "picked_course_code": "MNE4204",
+      "rejected_course_code": "MNE4201",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013147429-ti3w1iyg",
+      "type": "picked",
+      "at": "2026-05-05T20:32:27.429Z",
+      "left_course_code": "CA4727",
+      "right_course_code": "MNE3118",
+      "picked_course_code": "MNE3118",
+      "rejected_course_code": "CA4727",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013275659-im4ayt0h",
+      "type": "picked",
+      "at": "2026-05-05T20:34:35.659Z",
+      "left_course_code": "EE2004",
+      "right_course_code": "GE2301",
+      "picked_course_code": "EE2004",
+      "rejected_course_code": "GE2301",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013389441-6gbse066",
+      "type": "liked_both",
+      "at": "2026-05-05T20:36:29.441Z",
+      "left_course_code": "CA2675",
+      "right_course_code": "CA3632",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013399856-3vpvtc6p",
+      "type": "picked",
+      "at": "2026-05-05T20:36:39.856Z",
+      "left_course_code": "CA3632",
+      "right_course_code": "CA2345",
+      "picked_course_code": "CA2345",
+      "rejected_course_code": "CA3632",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013414989-dd2n7rum",
+      "type": "picked",
+      "at": "2026-05-05T20:36:54.989Z",
+      "left_course_code": "MNE3046",
+      "right_course_code": "MNE3202",
+      "picked_course_code": "MNE3202",
+      "rejected_course_code": "MNE3046",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013434622-q7rsq2mv",
+      "type": "liked_both",
+      "at": "2026-05-05T20:37:14.622Z",
+      "left_course_code": "EE3114",
+      "right_course_code": "MSE3130",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013590352-cwxyis2x",
+      "type": "picked",
+      "at": "2026-05-05T20:39:50.352Z",
+      "left_course_code": "SYE3101",
+      "right_course_code": "MNE4109",
+      "picked_course_code": "MNE4109",
+      "rejected_course_code": "SYE3101",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013597121-6s509gkd",
+      "type": "picked",
+      "at": "2026-05-05T20:39:57.121Z",
+      "left_course_code": "MSE4178",
+      "right_course_code": "SYE2011",
+      "picked_course_code": "MSE4178",
+      "rejected_course_code": "SYE2011",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013613252-m3e9xmkr",
+      "type": "picked",
+      "at": "2026-05-05T20:40:13.252Z",
+      "left_course_code": "SYE3004",
+      "right_course_code": "EE3001",
+      "picked_course_code": "SYE3004",
+      "rejected_course_code": "EE3001",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013751119-ws3ew9tw",
+      "type": "hated_both",
+      "at": "2026-05-05T20:42:31.119Z",
+      "left_course_code": "CA2343B",
+      "right_course_code": "CA3349B",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013759221-yhhl3sb1",
+      "type": "picked",
+      "at": "2026-05-05T20:42:39.221Z",
+      "left_course_code": "GE1320",
+      "right_course_code": "CA3619",
+      "picked_course_code": "CA3619",
+      "rejected_course_code": "GE1320",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013763454-4vl1oand",
+      "type": "hated_both",
+      "at": "2026-05-05T20:42:43.454Z",
+      "left_course_code": "CA3703",
+      "right_course_code": "MSE3111",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013765605-2hk8gczs",
+      "type": "picked",
+      "at": "2026-05-05T20:42:45.605Z",
+      "left_course_code": "CA3722",
+      "right_course_code": "MNE4201",
+      "picked_course_code": "MNE4201",
+      "rejected_course_code": "CA3722",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013770022-ujtzba2g",
+      "type": "hated_both",
+      "at": "2026-05-05T20:42:50.022Z",
+      "left_course_code": "CA3703",
+      "right_course_code": "CA3314",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013776236-2l8lt35h",
+      "type": "picked",
+      "at": "2026-05-05T20:42:56.236Z",
+      "left_course_code": "GE2304",
+      "right_course_code": "MSE3190",
+      "picked_course_code": "GE2304",
+      "rejected_course_code": "MSE3190",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013820737-iw85f1bo",
+      "type": "hated_both",
+      "at": "2026-05-05T20:43:40.737Z",
+      "left_course_code": "CA3144",
+      "right_course_code": "CA4424",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013840656-t2qno1so",
+      "type": "picked",
+      "at": "2026-05-05T20:44:00.656Z",
+      "left_course_code": "CA4665",
+      "right_course_code": "CA2213",
+      "picked_course_code": "CA2213",
+      "rejected_course_code": "CA4665",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013861254-v680rt0z",
+      "type": "picked",
+      "at": "2026-05-05T20:44:21.254Z",
+      "left_course_code": "SYE3004",
+      "right_course_code": "CA2673",
+      "picked_course_code": "SYE3004",
+      "rejected_course_code": "CA2673",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013889272-yusxmr8c",
+      "type": "picked",
+      "at": "2026-05-05T20:44:49.272Z",
+      "left_course_code": "MSE3171",
+      "right_course_code": "SYE3102",
+      "picked_course_code": "MSE3171",
+      "rejected_course_code": "SYE3102",
+      "chosen_side": "left"
+    },
+    {
+      "id": "1778013935140-120z7b3o",
+      "type": "hated_both",
+      "at": "2026-05-05T20:45:35.140Z",
+      "left_course_code": "MSE3190",
+      "right_course_code": "MNE3204",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778013949805-rgyaae7w",
+      "type": "picked",
+      "at": "2026-05-05T20:45:49.805Z",
+      "left_course_code": "MNE2109",
+      "right_course_code": "EE3114",
+      "picked_course_code": "EE3114",
+      "rejected_course_code": "MNE2109",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778013958554-pfzbmslf",
+      "type": "hated_both",
+      "at": "2026-05-05T20:45:58.554Z",
+      "left_course_code": "CA2346",
+      "right_course_code": "MNE3120",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778014041039-kpkb8oxk",
+      "type": "hated_both",
+      "at": "2026-05-05T20:47:21.039Z",
+      "left_course_code": "MNE4204",
+      "right_course_code": "MSE2106",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778014044823-oo5kc50b",
+      "type": "picked",
+      "at": "2026-05-05T20:47:24.823Z",
+      "left_course_code": "MSE4170",
+      "right_course_code": "MNE3107",
+      "picked_course_code": "MNE3107",
+      "rejected_course_code": "MSE4170",
+      "chosen_side": "right"
+    },
+    {
+      "id": "1778014302576-poyitvpu",
+      "type": "hated_both",
+      "at": "2026-05-05T20:51:42.576Z",
+      "left_course_code": "CA2744",
+      "right_course_code": "CA4617",
+      "picked_course_code": null,
+      "rejected_course_code": null,
+      "chosen_side": null
+    },
+    {
+      "id": "1778014321076-o7d3zx3z",
+      "type": "picked",
+      "at": "2026-05-05T20:52:01.076Z",
+      "left_course_code": "CHEM4084",
+      "right_course_code": "SEE3102",
+      "picked_course_code": "SEE3102",
+      "rejected_course_code": "CHEM4084",
+      "chosen_side": "right"
     }
   ],
   "currentPair": [
-    "CA2343A",
-    "CA2346"
+    "CB2200",
+    "CS1302"
   ],
   "filters": {
     "department": "All departments",
@@ -1287,15 +4260,111 @@
     "mode": "balanced"
   },
   "shotBreaks": {
-    "userShots": 1,
-    "manShots": 1,
+    "userShots": 11,
+    "manShots": 25,
     "events": [
       {
         "at": "2026-05-04T18:17:25.329Z",
         "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:30:27.326Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:34:06.484Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:37:00.887Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-04T18:39:39.381Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-04T18:40:19.161Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:45:35.020Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:47:40.303Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:54:10.844Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T18:55:33.457Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-04T19:11:19.827Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-05T20:04:17.169Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:05:23.673Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-05T20:06:04.855Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:25:44.802Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:26:26.036Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:27:26.838Z",
+        "userConfirmed": true
+      },
+      {
+        "at": "2026-05-05T20:38:25.364Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:39:24.902Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:42:13.314Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:42:54.554Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:43:39.360Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:44:36.808Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:45:44.862Z",
+        "userConfirmed": false
+      },
+      {
+        "at": "2026-05-05T20:47:07.195Z",
+        "userConfirmed": false
       }
     ],
-    "nextAt": 1777919427144,
-    "visible": false
+    "nextAt": 1778014027192,
+    "visible": true
   }
 }
