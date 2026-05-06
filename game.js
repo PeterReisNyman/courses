@@ -2,14 +2,11 @@ const STORAGE_KEY = "course-ranker-state-v1";
 const STATE_API = "/api/state";
 const K_FACTOR = 32;
 const INITIAL_RATING = 1000;
-const SHOT_DELAY_MIN_MS = 25000;
-const SHOT_DELAY_MAX_MS = 75000;
 
 const els = {
   totalCourses: document.querySelector("#totalCourses"),
   matchCount: document.querySelector("#matchCount"),
   ratedCount: document.querySelector("#ratedCount"),
-  shotCount: document.querySelector("#shotCount"),
   departmentFilter: document.querySelector("#departmentFilter"),
   cengOnly: document.querySelector("#cengOnly"),
   pairingMode: document.querySelector("#pairingMode"),
@@ -18,15 +15,16 @@ const els = {
   resetButton: document.querySelector("#resetButton"),
   exportButton: document.querySelector("#exportButton"),
   rankingList: document.querySelector("#rankingList"),
+  catalogCount: document.querySelector("#catalogCount"),
+  catalogSearch: document.querySelector("#catalogSearch"),
+  catalogSort: document.querySelector("#catalogSort"),
+  courseCatalog: document.querySelector("#courseCatalog"),
   chooseLeft: document.querySelector("#chooseLeft"),
   chooseRight: document.querySelector("#chooseRight"),
+  starLeft: document.querySelector("#starLeft"),
+  starRight: document.querySelector("#starRight"),
   likeBothButton: document.querySelector("#likeBothButton"),
   hateBothButton: document.querySelector("#hateBothButton"),
-  shotBreak: document.querySelector("#shotBreak"),
-  userShotCount: document.querySelector("#userShotCount"),
-  manShotCount: document.querySelector("#manShotCount"),
-  confirmShot: document.querySelector("#confirmShot"),
-  dismissShot: document.querySelector("#dismissShot"),
 };
 
 const sideFields = {
@@ -58,22 +56,14 @@ let state = {
   games: {},
   history: [],
   relations: [],
+  starred: [],
   currentPair: [],
   filters: {
     department: "All departments",
     cengOnly: false,
     mode: "balanced",
   },
-  shotBreaks: {
-    userShots: 0,
-    manShots: 0,
-    events: [],
-    nextAt: 0,
-    visible: false,
-  },
 };
-
-let shotTimer = null;
 
 init();
 
@@ -91,14 +81,11 @@ async function init() {
     games: savedState.games || state.games,
     history: savedState.history || state.history,
     relations: savedState.relations || state.relations,
+    starred: savedState.starred || state.starred,
     currentPair: savedState.currentPair || state.currentPair,
     filters: {
       ...state.filters,
       ...(savedState.filters || {}),
-    },
-    shotBreaks: {
-      ...state.shotBreaks,
-      ...(savedState.shotBreaks || {}),
     },
   };
 
@@ -110,7 +97,6 @@ async function init() {
   populateFilters();
   bindEvents();
   applyStoredControls();
-  scheduleShotBreak();
   nextPair();
   render();
 }
@@ -171,10 +157,15 @@ function populateFilters() {
 function bindEvents() {
   els.chooseLeft.addEventListener("click", () => choose("left"));
   els.chooseRight.addEventListener("click", () => choose("right"));
+  els.starLeft.addEventListener("click", () => toggleVisibleStar("left"));
+  els.starRight.addEventListener("click", () => toggleVisibleStar("right"));
   els.likeBothButton.addEventListener("click", likeBoth);
   els.hateBothButton.addEventListener("click", hateBoth);
-  els.confirmShot.addEventListener("click", confirmShotBreak);
-  els.dismissShot.addEventListener("click", dismissShotBreak);
+  els.courseCatalog.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-star-course]");
+    if (!button) return;
+    toggleStar(button.dataset.starCourse);
+  });
   els.skipButton.addEventListener("click", () => {
     state.history.push({ type: "skip", pair: [...state.currentPair] });
     nextPair();
@@ -183,6 +174,8 @@ function bindEvents() {
   els.undoButton.addEventListener("click", undo);
   els.resetButton.addEventListener("click", resetRankings);
   els.exportButton.addEventListener("click", exportRankings);
+  els.catalogSearch.addEventListener("input", render);
+  els.catalogSort.addEventListener("change", render);
   els.departmentFilter.addEventListener("change", () => {
     state.filters.department = els.departmentFilter.value;
     nextPair();
@@ -357,64 +350,6 @@ function resetRankings() {
   persistAndRender();
 }
 
-function scheduleShotBreak() {
-  window.clearTimeout(shotTimer);
-
-  if (state.shotBreaks.visible) {
-    showShotBreak();
-    return;
-  }
-
-  if (!state.shotBreaks.nextAt) {
-    state.shotBreaks.nextAt = Date.now() + randomDelay(SHOT_DELAY_MIN_MS, SHOT_DELAY_MAX_MS);
-    saveState();
-  }
-
-  const delay = Math.max(1000, state.shotBreaks.nextAt - Date.now());
-  shotTimer = window.setTimeout(triggerShotBreak, delay);
-}
-
-function triggerShotBreak() {
-  state.shotBreaks.visible = true;
-  state.shotBreaks.manShots += 1;
-  state.shotBreaks.events.push({
-    at: new Date().toISOString(),
-    userConfirmed: false,
-  });
-  saveState();
-  showShotBreak();
-  render();
-}
-
-function showShotBreak() {
-  els.shotBreak.classList.add("is-visible");
-  els.shotBreak.setAttribute("aria-hidden", "false");
-}
-
-function hideShotBreak() {
-  els.shotBreak.classList.remove("is-visible");
-  els.shotBreak.setAttribute("aria-hidden", "true");
-}
-
-function confirmShotBreak() {
-  state.shotBreaks.userShots += 1;
-  const latest = state.shotBreaks.events[state.shotBreaks.events.length - 1];
-  if (latest) latest.userConfirmed = true;
-  closeShotBreak();
-}
-
-function dismissShotBreak() {
-  closeShotBreak();
-}
-
-function closeShotBreak() {
-  state.shotBreaks.visible = false;
-  state.shotBreaks.nextAt = Date.now() + randomDelay(SHOT_DELAY_MIN_MS, SHOT_DELAY_MAX_MS);
-  hideShotBreak();
-  persistAndRender();
-  scheduleShotBreak();
-}
-
 function nextPair() {
   const pool = filteredCourses();
   if (pool.length < 2) {
@@ -481,13 +416,12 @@ function render() {
   els.totalCourses.textContent = pool.length;
   els.matchCount.textContent = state.history.filter((entry) => entry.type === "choice").length;
   els.ratedCount.textContent = pool.filter((course) => state.games[course.course_code] > 0).length;
-  els.shotCount.textContent = state.shotBreaks.userShots;
-  els.userShotCount.textContent = state.shotBreaks.userShots;
-  els.manShotCount.textContent = state.shotBreaks.manShots;
   els.undoButton.disabled = state.history.length === 0;
   els.skipButton.disabled = state.currentPair.length !== 2;
   els.chooseLeft.disabled = state.currentPair.length !== 2;
   els.chooseRight.disabled = state.currentPair.length !== 2;
+  els.starLeft.disabled = state.currentPair.length !== 2;
+  els.starRight.disabled = state.currentPair.length !== 2;
   els.likeBothButton.disabled = state.currentPair.length !== 2;
   els.hateBothButton.disabled = state.currentPair.length !== 2;
 
@@ -500,10 +434,12 @@ function render() {
   }
 
   renderRankings(pool);
+  renderCatalog(pool);
 }
 
 function renderCourse(side, course) {
   const fields = sideFields[side];
+  const starButton = side === "left" ? els.starLeft : els.starRight;
   fields.code.textContent = course.course_code;
   fields.credits.textContent = `${course.credit_units} credits`;
   fields.title.textContent = course.title;
@@ -511,6 +447,7 @@ function renderCourse(side, course) {
   fields.description.textContent = course.description || "No description available.";
   fields.ceng.textContent = course.part_of_ceng === "Yes" ? "CENG" : "Non-CENG";
   fields.link.href = course.course_url;
+  updateStarButton(starButton, course.course_code);
 }
 
 function renderEmpty(side) {
@@ -522,6 +459,7 @@ function renderEmpty(side) {
   fields.description.textContent = "At least two courses are needed for a comparison.";
   fields.ceng.textContent = "";
   fields.link.href = "#";
+  updateStarButton(side === "left" ? els.starLeft : els.starRight, null);
 }
 
 function renderRankings(pool) {
@@ -546,6 +484,120 @@ function rankedCourses(pool = courses) {
     const gamesDiff = state.games[b.course_code] - state.games[a.course_code];
     return ratingDiff || gamesDiff || a.course_code.localeCompare(b.course_code);
   });
+}
+
+function renderCatalog(pool) {
+  const search = els.catalogSearch.value.trim().toLowerCase();
+  const courseRows = catalogSortedCourses(pool)
+    .filter((course) => matchesCatalogSearch(course, search));
+
+  els.catalogCount.textContent = `${courseRows.length} shown`;
+  els.courseCatalog.innerHTML = courseRows
+    .map((course) => {
+      const relation = relationStats(course.course_code);
+      const rating = state.ratings[course.course_code];
+      const games = state.games[course.course_code];
+      const starred = isStarred(course.course_code);
+      return `
+        <article class="catalog-card">
+          <div class="catalog-main">
+            <div class="catalog-title">
+              <strong>${escapeHtml(course.course_code)}</strong>
+              <span>${escapeHtml(course.title)}</span>
+            </div>
+            <div class="catalog-meta">
+              <span>${escapeHtml(course.department)}</span>
+              <span>${escapeHtml(course.credit_units)} credits</span>
+              <span>${course.part_of_ceng === "Yes" ? "CENG" : "Cross-college"}</span>
+            </div>
+            <p class="catalog-description">${escapeHtml(course.description || "No description available.")}</p>
+            <div class="catalog-relation">
+              <span>${relation.picked} picked</span>
+              <span>${relation.rejected} rejected</span>
+              <span>${relation.likedBoth} liked both</span>
+              <span>${relation.hatedBoth} hated both</span>
+            </div>
+          </div>
+          <div class="catalog-score">
+            <strong>${rating}</strong>
+            <small>${games} choices</small>
+            <button type="button" class="catalog-star ${starred ? "is-starred" : ""}" data-star-course="${escapeAttr(course.course_code)}" aria-pressed="${starred}">
+              ${starred ? "Starred" : "Star"}
+            </button>
+            <a href="${escapeAttr(course.course_url)}" target="_blank" rel="noreferrer">Open</a>
+          </div>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+function catalogSortedCourses(pool) {
+  const sort = els.catalogSort.value;
+  return [...pool].sort((a, b) => {
+    if (sort === "code") return a.course_code.localeCompare(b.course_code);
+    if (sort === "department") return a.department.localeCompare(b.department) || a.course_code.localeCompare(b.course_code);
+    if (sort === "credits") return Number(b.credit_units) - Number(a.credit_units) || a.course_code.localeCompare(b.course_code);
+    if (sort === "choices") return state.games[b.course_code] - state.games[a.course_code] || state.ratings[b.course_code] - state.ratings[a.course_code];
+    if (sort === "starred") return Number(isStarred(b.course_code)) - Number(isStarred(a.course_code)) || state.ratings[b.course_code] - state.ratings[a.course_code];
+    if (sort === "liked") return relationStats(b.course_code).likedBoth - relationStats(a.course_code).likedBoth || state.ratings[b.course_code] - state.ratings[a.course_code];
+    if (sort === "hated") return relationStats(b.course_code).hatedBoth - relationStats(a.course_code).hatedBoth || state.ratings[a.course_code] - state.ratings[b.course_code];
+    return state.ratings[b.course_code] - state.ratings[a.course_code] || state.games[b.course_code] - state.games[a.course_code] || a.course_code.localeCompare(b.course_code);
+  });
+}
+
+function toggleVisibleStar(side) {
+  const code = side === "left" ? state.currentPair[0] : state.currentPair[1];
+  if (!code) return;
+  toggleStar(code);
+}
+
+function toggleStar(courseCode) {
+  if (isStarred(courseCode)) {
+    state.starred = state.starred.filter((code) => code !== courseCode);
+  } else {
+    state.starred = [...state.starred, courseCode];
+  }
+  persistAndRender();
+}
+
+function isStarred(courseCode) {
+  return state.starred.includes(courseCode);
+}
+
+function updateStarButton(button, courseCode) {
+  const starred = courseCode ? isStarred(courseCode) : false;
+  button.classList.toggle("is-starred", starred);
+  button.setAttribute("aria-pressed", String(starred));
+  button.textContent = starred ? "Starred" : "Star course";
+}
+
+function matchesCatalogSearch(course, search) {
+  if (!search) return true;
+  return [
+    course.course_code,
+    course.title,
+    course.department,
+    course.credit_units,
+    course.part_of_ceng,
+    course.description,
+  ].some((value) => String(value || "").toLowerCase().includes(search));
+}
+
+function relationStats(courseCode) {
+  return state.relations.reduce((stats, relation) => {
+    if (relation.type === "picked") {
+      if (relation.picked_course_code === courseCode) stats.picked += 1;
+      if (relation.rejected_course_code === courseCode) stats.rejected += 1;
+    }
+    if (relation.type === "liked_both" && (relation.left_course_code === courseCode || relation.right_course_code === courseCode)) {
+      stats.likedBoth += 1;
+    }
+    if (relation.type === "hated_both" && (relation.left_course_code === courseCode || relation.right_course_code === courseCode)) {
+      stats.hatedBoth += 1;
+    }
+    return stats;
+  }, { picked: 0, rejected: 0, likedBoth: 0, hatedBoth: 0 });
 }
 
 function exportRankings() {
@@ -589,10 +641,6 @@ function persistAndRender() {
 
 function randomInt(max) {
   return Math.floor(Math.random() * max);
-}
-
-function randomDelay(min, max) {
-  return min + Math.floor(Math.random() * (max - min + 1));
 }
 
 function createRelationId() {

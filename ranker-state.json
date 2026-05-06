@@ -4250,121 +4250,21 @@
       "chosen_side": "right"
     }
   ],
+  "starred": [
+    "EE3114",
+    "CA2345",
+    "MNE4109",
+    "SYE3004",
+    "BME2104",
+    "CHEM1300"
+  ],
   "currentPair": [
-    "CB2200",
-    "CS1302"
+    "CS1302",
+    "SEE4122"
   ],
   "filters": {
     "department": "All departments",
     "cengOnly": false,
     "mode": "balanced"
-  },
-  "shotBreaks": {
-    "userShots": 11,
-    "manShots": 25,
-    "events": [
-      {
-        "at": "2026-05-04T18:17:25.329Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:30:27.326Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:34:06.484Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:37:00.887Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-04T18:39:39.381Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-04T18:40:19.161Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:45:35.020Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:47:40.303Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:54:10.844Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T18:55:33.457Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-04T19:11:19.827Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-05T20:04:17.169Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:05:23.673Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-05T20:06:04.855Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:25:44.802Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:26:26.036Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:27:26.838Z",
-        "userConfirmed": true
-      },
-      {
-        "at": "2026-05-05T20:38:25.364Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:39:24.902Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:42:13.314Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:42:54.554Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:43:39.360Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:44:36.808Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:45:44.862Z",
-        "userConfirmed": false
-      },
-      {
-        "at": "2026-05-05T20:47:07.195Z",
-        "userConfirmed": false
-      }
-    ],
-    "nextAt": 1778014027192,
-    "visible": true
   }
 }

@@ -26,10 +26,6 @@
             <span id="ratedCount">0</span>
             <small>ranked</small>
           </div>
-          <div>
-            <span id="shotCount">0</span>
-            <small>shots</small>
-          </div>
         </div>
       </section>
 
@@ -70,6 +66,7 @@
             <span id="leftCeng"></span>
             <a id="leftLink" href="#" target="_blank" rel="noreferrer">Open course</a>
           </div>
+          <button id="starLeft" type="button" class="star-button">Star course</button>
           <button id="chooseLeft" type="button" class="pick-button">Pick this course</button>
         </article>
 
@@ -91,6 +88,7 @@
             <span id="rightCeng"></span>
             <a id="rightLink" href="#" target="_blank" rel="noreferrer">Open course</a>
           </div>
+          <button id="starRight" type="button" class="star-button">Star course</button>
           <button id="chooseRight" type="button" class="pick-button">Pick this course</button>
         </article>
       </section>
@@ -105,32 +103,37 @@
         </div>
         <ol id="rankingList" class="ranking-list"></ol>
       </section>
-    </main>
 
-    <aside id="shotBreak" class="shot-break" aria-live="assertive" aria-hidden="true">
-      <div class="shot-card" role="dialog" aria-modal="false" aria-labelledby="shotTitle">
-        <div class="shot-man" aria-hidden="true">
-          <div class="head"></div>
-          <div class="body"></div>
-          <div class="arm arm-left"></div>
-          <div class="arm arm-right"></div>
-          <div class="glass"></div>
-        </div>
-        <div class="shot-copy">
-          <p class="eyebrow">Random break</p>
-          <h2 id="shotTitle">Take a shot.</h2>
-          <p id="shotMessage">He took one too. Your streak is saved across sessions.</p>
-          <div class="shot-stats">
-            <span><strong id="userShotCount">0</strong> you</span>
-            <span><strong id="manShotCount">0</strong> him</span>
+      <section class="catalog-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Catalog</p>
+            <h2>All courses</h2>
           </div>
-          <div class="shot-actions">
-            <button id="confirmShot" type="button">Done</button>
-            <button id="dismissShot" type="button" class="secondary">Later</button>
-          </div>
+          <span id="catalogCount" class="catalog-count">0 shown</span>
         </div>
-      </div>
-    </aside>
+        <div class="catalog-controls" aria-label="Catalog controls">
+          <label>
+            Search
+            <input id="catalogSearch" type="search" placeholder="Code, title, department, description">
+          </label>
+          <label>
+            Sort
+            <select id="catalogSort">
+              <option value="rank">Rank score</option>
+              <option value="code">Course code</option>
+              <option value="department">Department</option>
+              <option value="credits">Credits</option>
+              <option value="choices">Most compared</option>
+              <option value="starred">Starred first</option>
+              <option value="liked">Most liked</option>
+              <option value="hated">Most hated</option>
+            </select>
+          </label>
+        </div>
+        <div id="courseCatalog" class="course-catalog"></div>
+      </section>
+    </main>
 
     <script src="game.js"></script>
   </body>
