@@ -4253,14 +4253,17 @@
   "starred": [
     "EE3114",
     "CA2345",
-    "MNE4109",
     "SYE3004",
     "BME2104",
-    "CHEM1300"
+    "COM3107",
+    "LC2956",
+    "GE1501",
+    "MNE4204",
+    "MA3512"
   ],
   "currentPair": [
-    "CS1302",
-    "SEE4122"
+    "SEE2003",
+    "CS2360"
   ],
   "filters": {
     "department": "All departments",
